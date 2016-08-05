@@ -6,6 +6,7 @@ import os
 from datetime import datetime as dd
 
 inventory = None
+header = ['School', 'Observer', 'Date', 'Time', 'Teacher', 'Student', 'Teaching', 'Masking', 'RaisingVoice', 'Noise', 'NoiseSource', 'Learning', 'Distracted', 'Internal/External', 'ReasonForDistraction']
 
 class RowEntry(object):
 	def __init__(self, row):
@@ -27,7 +28,36 @@ class RowEntry(object):
 			else:
 				output.append(np.nan)
 				output.append(np.nan)
+				output.append(np.nan)
+				output.append(np.nan)
+				output.append(np.nan)
 				output.append(1)
+		elif self.etype == 'Teacher':
+			output.append(1)
+			output.append(np.nan)
+			if self.raw[0] == 'Teaching':
+				output.append(1)
+			elif self.raw[0] == 'Masking':
+				output.append(np.nan)
+				output.append(1)
+			elif self.raw[0] == 'Raising Voice':
+				output.append(np.nan)
+				output.append(np.nan)
+				output.append(1)
+		elif self.etype == 'Student':
+			output.append(np.nan)
+			output.append(1)
+			output.append(np.nan)
+			output.append(np.nan)
+			output.append(np.nan)
+			output.append(np.nan)
+			output.append(np.nan)
+			if self.raw[1] == 'Learning':
+				output.append(1)
+			elif self.raw[1] == 'Distracted':
+				output.append(np.nan)
+				output.append(1)
+				output.append(self.raw[2])
 		print output
 
 def main(x):
@@ -38,4 +68,4 @@ def main(x):
 			entry = RowEntry(row)
 			entry.rawparse()
 
-main('C:\Users\sam\PyScripts\TabData')
+main('C:\Users\Scott\Documents\GitHub\ACRP\TabData')
