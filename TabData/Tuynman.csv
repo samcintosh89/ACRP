@@ -1,0 +1,1949 @@
+Tuynman,Session,4/4/2016,14:06:52,Teacher,Begin,Social Studies,0,,
+Tuynman,Teacher,4/4/2016,14:07:08,Teaching,On,0,,,
+Tuynman,Teacher,4/4/2016,14:07:09,Masking,On,0,,,
+Tuynman,Teacher,4/4/2016,14:07:10,Raising Voice,On,0,,,
+Tuynman,Teacher,4/4/2016,14:07:12,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/4/2016,14:07:13,Masking,Off,0,,,
+Tuynman,Teacher,4/4/2016,14:07:15,Masking,On,0,,,
+Tuynman,Teacher,4/4/2016,14:07:16,Raising Voice,On,0,,,
+Tuynman,Teacher,4/4/2016,14:07:18,Teaching,Off,0,,,
+Tuynman,Teacher,4/4/2016,14:07:19,Teaching,On,0,,,
+Tuynman,Teacher,4/4/2016,14:07:20,Masking,Off,0,,,
+Tuynman,Teacher,4/4/2016,14:07:22,Masking,On,0,,,
+Tuynman,Session,4/4/2016,14:07:34,Teacher,End,,0,,
+Tuynman,Session,4/4/2016,14:09:53,Student,Begin,2,0,,
+Tuynman,Student,4/4/2016,14:10:04,1,Learning,,,null,0
+Tuynman,Student,4/4/2016,14:10:07,1,Distracted,External,Other Transportation Noise,,0
+Tuynman,Student,4/4/2016,14:10:33,1,Learning,,,,0
+Tuynman,Student,4/4/2016,14:10:34,1,Distracted,External,Hallway or Adjacent Classroom,,0
+Tuynman,Student,4/4/2016,14:10:59,1,Learning,,,,0
+Tuynman,Student,4/4/2016,14:11:00,1,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/4/2016,14:12:08,2,Learning,,,,0
+Tuynman,Student,4/4/2016,14:12:32,2,Distracted,External,Airplane Noise,,0
+Tuynman,Student,4/4/2016,14:13:24,3,Learning,,,,0
+Tuynman,Session,4/4/2016,14:13:55,Student,End,0,0,,
+Tuynman,Session,4/4/2016,14:18:00,Noise,Begin,,0,,
+Tuynman,Noise,4/4/2016,14:18:08,48,Aircraft,Jet Departure,,0,
+Tuynman,Noise,4/4/2016,14:19:01,374,Aircraft,Jet Arrival,,0,
+Tuynman,Session,4/4/2016,14:25:19,Noise,End,,0,,
+Tuynman,Session,4/5/2016,9:21:12,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/5/2016,9:22:28,Teaching,On,0,,,
+Tuynman,Teacher,4/5/2016,9:22:31,Teaching,Off,0,,,
+Tuynman,Teacher,4/5/2016,9:22:32,Masking,On,0,,,
+Tuynman,Teacher,4/5/2016,9:22:36,Masking,Off,0,,,
+Tuynman,Teacher,4/5/2016,9:22:40,Raising Voice,On,0,,,
+Tuynman,Teacher,4/5/2016,9:22:42,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/5/2016,9:23:30,Teaching,On,0,,,
+Tuynman,Teacher,4/5/2016,9:24:04,Teaching,Off,0,,,
+Tuynman,Session,4/5/2016,9:24:37,Teacher,End,,0,,
+Tuynman,Session,4/5/2016,9:24:42,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/5/2016,9:24:53,Masking,On,0,,,
+Tuynman,Teacher,4/5/2016,9:24:54,Masking,Off,0,,,
+Tuynman,Teacher,4/5/2016,9:26:40,Teaching,On,0,,,
+Tuynman,Teacher,4/5/2016,9:26:41,Teaching,Off,0,,,
+Tuynman,Session,4/5/2016,9:28:17,Teacher,End,,0,,
+Tuynman,Session,4/5/2016,9:29:33,Student,Begin,2,0,,
+Tuynman,Student,4/5/2016,9:29:36,1,Learning,,,null,0
+Tuynman,Student,4/5/2016,9:29:47,1,Distracted,External,Hallway or Adjacent Classroom,,0
+Tuynman,Student,4/5/2016,9:30:25,1,Learning,,,,0
+Tuynman,Student,4/5/2016,9:30:26,1,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/5/2016,9:36:05,2,Learning,,,,0
+Tuynman,Student,4/5/2016,9:36:16,2,Distracted,External,Airplane Noise,,0
+Tuynman,Student,4/5/2016,9:36:35,3,Learning,,,,0
+Tuynman,Session,4/5/2016,9:37:36,Student,End,0,0,,
+Tuynman,Session,4/5/2016,9:39:52,Noise,Begin,,0,,
+Tuynman,Noise,4/5/2016,9:40:01,525,Aircraft,Jet Departure,,0,
+Tuynman,Session,4/5/2016,9:48:55,Noise,End,,0,,
+Tuynman,Session,4/5/2016,9:50:51,Noise,Begin,,0,,
+Tuynman,Noise,4/5/2016,9:50:54,30,Other,Other,,0,
+Tuynman,Session,4/5/2016,12:49:09,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/5/2016,12:49:53,Teaching,On,0,,,
+Tuynman,Teacher,4/5/2016,12:49:55,Teaching,Off,0,,,
+Tuynman,Teacher,4/5/2016,12:50:19,Masking,On,0,,,
+Tuynman,Teacher,4/5/2016,12:50:20,Masking,Off,0,,,
+Tuynman,Teacher,4/5/2016,12:50:35,Masking,On,0,,,
+Tuynman,Teacher,4/5/2016,12:50:36,Masking,Off,0,,,
+Tuynman,Teacher,4/5/2016,12:51:10,Masking,On,0,,,
+Tuynman,Teacher,4/5/2016,12:51:11,Masking,Off,0,,,
+Tuynman,Teacher,4/5/2016,12:51:26,Raising Voice,On,0,,,
+Tuynman,Teacher,4/5/2016,12:51:27,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/5/2016,12:51:40,Raising Voice,Off,0,,,
+Tuynman,Session,4/5/2016,12:53:28,Teacher,End,,0,,
+Tuynman,Session,4/5/2016,12:54:00,Student,Begin,2,0,,
+Tuynman,Student,4/5/2016,12:54:02,1,Learning,,,null,0
+Tuynman,Student,4/5/2016,12:54:15,1,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/5/2016,12:56:50,2,Learning,,,,0
+Tuynman,Session,4/5/2016,12:56:53,Student,End,0,0,,
+Tuynman,Session,4/5/2016,12:57:31,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/5/2016,12:59:10,Teaching,On,0,,,
+Tuynman,Teacher,4/5/2016,12:59:11,Teaching,Off,0,,,
+Tuynman,Session,4/5/2016,13:05:31,Teacher,End,,0,,
+Tuynman,Session,4/5/2016,13:05:36,Student,Begin,2,0,,
+Tuynman,Student,4/5/2016,13:05:37,1,Learning,,,,0
+Tuynman,Student,4/5/2016,13:05:40,1,Distracted,Internal,Other,,0
+Tuynman,Student,4/5/2016,13:08:22,2,Learning,,,,0
+Tuynman,Session,4/5/2016,13:08:24,Student,End,0,0,,
+Tuynman,Session,4/5/2016,13:40:02,Student,Begin,2,0,,
+Tuynman,Student,4/5/2016,13:40:05,1,Learning,,,null,0
+Tuynman,Student,4/5/2016,13:42:07,2,Learning,,,null,0
+Tuynman,Student,4/5/2016,13:43:30,2,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/5/2016,13:43:55,2,Learning,,,,0
+Tuynman,Student,4/5/2016,13:43:58,2,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/5/2016,13:44:09,3,Learning,,,,0
+Tuynman,Student,4/5/2016,13:46:11,4,Learning,,,,0
+Tuynman,Session,4/5/2016,13:46:12,Student,End,0,0,,
+Tuynman,Session,4/5/2016,13:46:23,Teacher,Begin,Other,0,,
+Tuynman,Session,4/5/2016,13:46:43,Teacher,End,,0,,
+Tuynman,Session,4/6/2016,8:35:10,Noise,Begin,,0,,
+Tuynman,Noise,4/6/2016,8:35:25,24,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,8:37:58,31,Aircraft,Jet Arrival,,0,
+Tuynman,Session,4/6/2016,8:39:02,Noise,End,,0,,
+Tuynman,Session,4/6/2016,8:39:29,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/6/2016,8:39:43,Teaching,On,0,,,
+Tuynman,Teacher,4/6/2016,8:39:58,Masking,On,0,,,
+Tuynman,Teacher,4/6/2016,8:40:02,Masking,Off,0,,,
+Tuynman,Teacher,4/6/2016,8:40:45,Masking,On,0,,,
+Tuynman,Teacher,4/6/2016,8:40:46,Masking,Off,0,,,
+Tuynman,Teacher,4/6/2016,8:40:48,Teaching,Off,0,,,
+Tuynman,Teacher,4/6/2016,8:41:05,Raising Voice,On,0,,,
+Tuynman,Teacher,4/6/2016,8:41:07,Raising Voice,Off,0,,,
+Tuynman,Session,4/6/2016,8:42:29,Teacher,End,,0,,
+Tuynman,Session,4/6/2016,8:43:04,Noise,Begin,,0,,
+Tuynman,Noise,4/6/2016,8:43:06,17,Aircraft,Jet Arrival,,0,
+Tuynman,Session,4/6/2016,8:44:23,Noise,End,,0,,
+Tuynman,Session,4/6/2016,8:55:09,Noise,Begin,,0,,
+Tuynman,Noise,4/6/2016,8:55:11,24,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,8:56:44,31,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,8:57:58,36,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,9:00:33,27,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,9:02:01,42,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,9:04:23,37,Aircraft,Jet Arrival,,0,
+Tuynman,Session,4/6/2016,9:06:55,Noise,End,,0,,
+Tuynman,Session,4/6/2016,9:31:56,Noise,Begin,,0,,
+Tuynman,Noise,4/6/2016,9:31:58,20,People,Students,Recess time,0,
+Tuynman,Session,4/6/2016,10:19:19,Noise,End,,0,,
+Tuynman,Session,4/6/2016,10:20:13,Noise,Begin,Airport and freeway noise.,0,,
+Tuynman,Noise,4/6/2016,10:20:15,10,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,10:21:24,37,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,10:23:29,25,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/6/2016,10:24:48,24,Aircraft,Jet Arrival,,0,
+Tuynman,Session,4/6/2016,10:25:17,Noise,End,,0,,
+Tuynman,Session,4/6/2016,11:32:36,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/6/2016,11:32:39,Teaching,On,0,,,
+Tuynman,Teacher,4/6/2016,11:32:40,Teaching,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:41,Masking,On,0,,,
+Tuynman,Teacher,4/6/2016,11:32:42,Masking,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:43,Raising Voice,On,0,,,
+Tuynman,Teacher,4/6/2016,11:32:44,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:47,Teaching,On,0,,,
+Tuynman,Teacher,4/6/2016,11:32:48,Teaching,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:49,Masking,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:51,Raising Voice,On,0,,,
+Tuynman,Teacher,4/6/2016,11:32:52,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:54,Teaching,On,0,,,
+Tuynman,Teacher,4/6/2016,11:32:55,Teaching,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:56,Masking,On,0,,,
+Tuynman,Teacher,4/6/2016,11:32:57,Masking,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:32:58,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/6/2016,11:33:05,Masking,On,0,,,
+Tuynman,Teacher,4/6/2016,11:33:06,Raising Voice,On,0,,,
+Tuynman,Teacher,4/6/2016,11:33:07,Raising Voice,Off,0,,,
+Tuynman,Session,4/6/2016,11:33:09,Teacher,End,,0,,
+Tuynman,Session,4/7/2016,8:26:27,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/7/2016,8:29:11,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,8:30:11,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,8:30:29,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,8:31:26,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,8:31:34,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,8:31:40,Masking,On,0,,,
+Tuynman,Teacher,4/7/2016,8:31:41,Masking,Off,0,,,
+Tuynman,Teacher,4/7/2016,8:43:54,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,8:44:02,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,8:44:10,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,8:44:27,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,8:44:58,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,8:44:59,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,8:57:57,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,8:57:59,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:01:31,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:01:34,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:09:25,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:10:59,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:11:23,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:11:51,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:23:28,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:23:45,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:25:23,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:25:33,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:30:06,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:30:23,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:31:37,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:32:37,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:33:26,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:33:35,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:36:42,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:37:26,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:40:52,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:43:27,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,9:44:31,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,9:48:31,Teaching,On,0,,,
+Tuynman,Session,4/7/2016,10:00:17,Teacher,End,,0,,
+Tuynman,Session,4/7/2016,10:50:04,Teacher,Begin,Math,0,,
+Tuynman,Teacher,4/7/2016,10:50:20,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,11:51:36,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,11:51:50,Teaching,On,0,,,
+Tuynman,Session,4/7/2016,12:20:04,Teacher,End,,0,,
+Tuynman,Session,4/7/2016,13:00:00,Teacher,Begin,Math,0,,
+Tuynman,Teacher,4/7/2016,13:00:03,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:02:35,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:02:39,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:03:11,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:03:50,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:04:04,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:05:04,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:09:39,Masking,On,0,,,
+Tuynman,Teacher,4/7/2016,13:09:41,Raising Voice,On,0,,,
+Tuynman,Teacher,4/7/2016,13:09:43,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:09:45,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:09:51,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:27:12,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:27:25,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:27:39,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:27:54,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:28:08,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:28:30,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:28:40,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:28:53,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:29:00,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:29:08,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:29:37,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:30:05,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:30:30,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:31:30,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:31:47,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:32:07,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:32:09,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:32:22,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:36:06,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:38:05,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:39:17,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:40:08,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:40:46,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:40:54,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:41:13,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:41:55,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:45:16,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:45:37,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:49:41,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:51:17,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,13:51:30,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,13:52:44,Teaching,On,0,,,
+Tuynman,Session,4/7/2016,13:53:04,Teacher,End,,0,,
+Tuynman,Session,4/7/2016,13:53:08,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/7/2016,13:53:10,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,14:05:52,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:06:19,Teaching,On,0,,,
+Tuynman,Session,4/7/2016,14:08:40,Teacher,End,,0,,
+Tuynman,Session,4/7/2016,14:08:44,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/7/2016,14:08:45,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,14:12:32,Raising Voice,On,0,,,
+Tuynman,Teacher,4/7/2016,14:12:39,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:12:44,Raising Voice,On,0,,,
+Tuynman,Teacher,4/7/2016,14:13:02,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:13:16,Raising Voice,On,0,,,
+Tuynman,Teacher,4/7/2016,14:13:22,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:16:02,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:16:05,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,14:20:09,Raising Voice,On,0,,,
+Tuynman,Teacher,4/7/2016,14:20:12,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:20:20,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:20:43,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,14:20:55,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:21:06,Teaching,On,0,,,
+Tuynman,Teacher,4/7/2016,14:21:14,Raising Voice,On,0,,,
+Tuynman,Teacher,4/7/2016,14:21:20,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:24:59,Teaching,Off,0,,,
+Tuynman,Teacher,4/7/2016,14:25:05,Teaching,On,0,,,
+Tuynman,Session,4/7/2016,14:30:02,Teacher,End,,0,,
+Tuynman,Session,4/11/2016,8:16:55,Student,Begin,2,0,,
+Tuynman,Student,4/11/2016,8:16:56,1,Learning,,,null,0
+Tuynman,Student,4/11/2016,8:18:58,2,Learning,,,null,0
+Tuynman,Student,4/11/2016,8:21:01,3,Learning,,,null,0
+Tuynman,Student,4/11/2016,8:21:42,3,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,8:21:51,3,Learning,,,,0
+Tuynman,Student,4/11/2016,8:23:03,4,Learning,,,,0
+Tuynman,Student,4/11/2016,8:23:27,4,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/11/2016,8:23:48,4,Learning,,,,0
+Tuynman,Student,4/11/2016,8:24:46,4,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,8:24:52,4,Learning,,,,0
+Tuynman,Student,4/11/2016,8:25:05,5,Learning,,,,0
+Tuynman,Student,4/11/2016,8:27:06,6,Learning,,,,0
+Tuynman,Student,4/11/2016,8:29:07,7,Learning,,,,0
+Tuynman,Student,4/11/2016,8:31:09,8,Learning,,,,0
+Tuynman,Student,4/11/2016,8:33:11,9,Learning,,,,0
+Tuynman,Student,4/11/2016,8:35:13,10,Learning,,,,0
+Tuynman,Student,4/11/2016,8:37:15,11,Learning,,,,0
+Tuynman,Student,4/11/2016,8:39:19,12,Learning,,,,0
+Tuynman,Student,4/11/2016,8:41:07,12,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,8:41:23,13,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:43:25,14,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:45:47,15,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:46:13,15,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,8:46:30,15,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:47:54,16,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:49:40,16,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,8:49:51,16,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:49:55,17,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:51:02,17,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,8:51:14,17,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:51:57,18,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:52:01,18,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,8:52:14,18,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:53:17,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,8:53:28,18,Learning,,,,0
+Tuynman,Student,4/11/2016,8:53:58,19,Learning,,,,0
+Tuynman,Student,4/11/2016,8:54:20,19,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,8:54:33,19,Learning,,,,0
+Tuynman,Student,4/11/2016,8:54:34,19,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,8:55:03,19,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:55:25,19,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,8:55:41,19,Learning,,,Self,0
+Tuynman,Student,4/11/2016,8:55:42,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,8:55:54,19,Learning,,,,0
+Tuynman,Student,4/11/2016,8:56:02,20,Learning,,,,0
+Tuynman,Student,4/11/2016,8:58:03,21,Learning,,,,0
+Tuynman,Student,4/11/2016,8:58:43,21,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,8:58:54,21,Learning,,,,0
+Tuynman,Student,4/11/2016,9:00:11,22,Learning,,,,0
+Tuynman,Student,4/11/2016,9:02:13,23,Learning,,,,0
+Tuynman,Student,4/11/2016,9:04:15,24,Learning,,,,0
+Tuynman,Student,4/11/2016,9:06:18,25,Learning,,,,0
+Tuynman,Student,4/11/2016,9:08:19,26,Learning,,,,0
+Tuynman,Student,4/11/2016,9:10:21,27,Learning,,,,0
+Tuynman,Student,4/11/2016,9:12:22,28,Learning,,,,0
+Tuynman,Student,4/11/2016,9:14:24,29,Learning,,,,0
+Tuynman,Student,4/11/2016,9:16:40,30,Learning,,,,0
+Tuynman,Student,4/11/2016,9:18:50,31,Learning,,,,0
+Tuynman,Student,4/11/2016,9:20:51,32,Learning,,,,0
+Tuynman,Student,4/11/2016,9:22:53,33,Learning,,,,0
+Tuynman,Student,4/11/2016,9:24:54,34,Learning,,,,0
+Tuynman,Student,4/11/2016,9:26:55,35,Learning,,,,0
+Tuynman,Student,4/11/2016,9:28:57,36,Learning,,,,0
+Tuynman,Student,4/11/2016,9:30:58,37,Learning,,,,0
+Tuynman,Student,4/11/2016,9:33:00,38,Learning,,,,0
+Tuynman,Student,4/11/2016,9:35:01,39,Learning,,,,0
+Tuynman,Student,4/11/2016,9:37:03,40,Learning,,,,0
+Tuynman,Student,4/11/2016,9:39:04,41,Learning,,,,0
+Tuynman,Student,4/11/2016,9:40:10,41,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,9:41:06,42,Learning,,,Self,0
+Tuynman,Student,4/11/2016,9:43:07,43,Learning,,,Self,0
+Tuynman,Student,4/11/2016,9:45:08,44,Learning,,,Self,0
+Tuynman,Student,4/11/2016,9:47:10,45,Learning,,,Self,0
+Tuynman,Session,4/11/2016,9:47:11,Student,End,0,0,,
+Tuynman,Session,4/11/2016,10:17:45,Student,Begin,2,0,,
+Tuynman,Student,4/11/2016,10:17:46,1,Learning,,,Self,0
+Tuynman,Student,4/11/2016,10:18:04,1,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,10:18:36,1,Learning,,,,0
+Tuynman,Student,4/11/2016,10:19:47,2,Learning,,,,0
+Tuynman,Student,4/11/2016,10:20:34,2,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,10:20:40,2,Learning,,,,0
+Tuynman,Student,4/11/2016,10:21:11,2,Distracted,External,Other,,0
+Tuynman,Student,4/11/2016,10:21:31,2,Learning,,,,0
+Tuynman,Student,4/11/2016,10:21:52,3,Learning,,,,0
+Tuynman,Student,4/11/2016,10:23:14,3,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/11/2016,10:23:21,3,Learning,,,,0
+Tuynman,Student,4/11/2016,10:23:53,4,Learning,,,,0
+Tuynman,Student,4/11/2016,10:25:54,5,Learning,,,,0
+Tuynman,Student,4/11/2016,10:27:55,6,Learning,,,,0
+Tuynman,Student,4/11/2016,10:29:56,7,Learning,,,,0
+Tuynman,Student,4/11/2016,10:30:16,7,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,10:30:21,7,Learning,,,,0
+Tuynman,Student,4/11/2016,10:31:58,8,Learning,,,,0
+Tuynman,Student,4/11/2016,10:33:26,8,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,10:33:30,8,Learning,,,,0
+Tuynman,Student,4/11/2016,10:34:00,9,Learning,,,,0
+Tuynman,Student,4/11/2016,10:36:01,10,Learning,,,,0
+Tuynman,Student,4/11/2016,10:38:03,11,Learning,,,,0
+Tuynman,Student,4/11/2016,10:40:05,12,Learning,,,,0
+Tuynman,Student,4/11/2016,10:42:06,13,Learning,,,,0
+Tuynman,Student,4/11/2016,10:44:08,14,Learning,,,,0
+Tuynman,Student,4/11/2016,10:44:17,14,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/11/2016,10:44:45,14,Learning,,,,0
+Tuynman,Student,4/11/2016,10:46:10,15,Learning,,,,0
+Tuynman,Student,4/11/2016,10:46:55,15,Distracted,Internal,Other,,0
+Tuynman,Student,4/11/2016,10:47:04,15,Learning,,,,0
+Tuynman,Student,4/11/2016,10:48:11,16,Learning,,,,0
+Tuynman,Student,4/11/2016,10:49:22,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,10:49:36,16,Learning,,,,0
+Tuynman,Student,4/11/2016,10:50:12,17,Learning,,,,0
+Tuynman,Student,4/11/2016,10:52:13,18,Learning,,,,0
+Tuynman,Student,4/11/2016,10:54:16,19,Learning,,,,0
+Tuynman,Student,4/11/2016,10:54:25,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,10:54:41,19,Learning,,,,0
+Tuynman,Student,4/11/2016,10:56:17,20,Learning,,,,0
+Tuynman,Student,4/11/2016,10:58:18,21,Learning,,,,0
+Tuynman,Student,4/11/2016,11:00:20,22,Learning,,,,0
+Tuynman,Student,4/11/2016,11:01:01,22,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:01:15,22,Learning,,,,0
+Tuynman,Student,4/11/2016,11:01:59,22,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,11:02:06,22,Learning,,,,0
+Tuynman,Student,4/11/2016,11:02:21,23,Learning,,,,0
+Tuynman,Student,4/11/2016,11:04:22,24,Learning,,,,0
+Tuynman,Student,4/11/2016,11:04:28,24,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,11:04:39,24,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:06:24,25,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:08:25,26,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:10:26,27,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:12:28,28,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:14:29,29,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:14:59,29,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:15:08,29,Learning,,,,0
+Tuynman,Student,4/11/2016,11:15:30,29,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:15:45,29,Learning,,,,0
+Tuynman,Student,4/11/2016,11:16:36,30,Learning,,,,0
+Tuynman,Student,4/11/2016,11:18:38,31,Learning,,,,0
+Tuynman,Student,4/11/2016,11:20:12,31,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:20:23,31,Learning,,,,0
+Tuynman,Student,4/11/2016,11:20:39,32,Learning,,,,0
+Tuynman,Student,4/11/2016,11:22:44,33,Learning,,,,0
+Tuynman,Student,4/11/2016,11:23:02,33,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,11:23:59,33,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:24:03,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:24:10,33,Learning,,,,0
+Tuynman,Student,4/11/2016,11:24:29,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:24:39,33,Learning,,,,0
+Tuynman,Student,4/11/2016,11:24:46,34,Learning,,,,0
+Tuynman,Student,4/11/2016,11:26:47,35,Learning,,,,0
+Tuynman,Student,4/11/2016,11:27:42,35,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:28:00,35,Learning,,,,0
+Tuynman,Student,4/11/2016,11:28:11,35,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,11:28:49,36,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:29:16,36,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,11:30:51,37,Learning,,,Self,0
+Tuynman,Student,4/11/2016,11:31:11,37,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:31:19,37,Learning,,,,0
+Tuynman,Student,4/11/2016,11:32:32,37,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:32:37,37,Learning,,,,0
+Tuynman,Student,4/11/2016,11:32:45,37,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:32:53,38,Learning,,,,0
+Tuynman,Student,4/11/2016,11:34:54,39,Learning,,,,0
+Tuynman,Student,4/11/2016,11:36:55,40,Learning,,,,0
+Tuynman,Student,4/11/2016,11:38:58,41,Learning,,,,0
+Tuynman,Student,4/11/2016,11:39:05,41,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,11:39:10,41,Learning,,,,0
+Tuynman,Student,4/11/2016,11:40:59,42,Learning,,,,0
+Tuynman,Student,4/11/2016,11:43:01,43,Learning,,,,0
+Tuynman,Student,4/11/2016,11:45:03,44,Learning,,,,0
+Tuynman,Session,4/11/2016,11:47:03,Student,End,0,0,,
+Tuynman,Session,4/11/2016,13:00:17,Student,Begin,2,0,,
+Tuynman,Student,4/11/2016,13:00:19,1,Learning,,,null,0
+Tuynman,Session,4/11/2016,13:02:15,Student,Begin,2,0,,
+Tuynman,Student,4/11/2016,13:02:17,1,Learning,,,null,0
+Tuynman,Session,4/11/2016,13:02:18,Student,End,0,0,,
+Tuynman,Session,4/11/2016,13:04:20,Student,Begin,2,0,,
+Tuynman,Student,4/11/2016,13:04:21,1,Learning,,,null,0
+Tuynman,Student,4/11/2016,13:06:23,2,Learning,,,null,0
+Tuynman,Student,4/11/2016,13:08:24,3,Learning,,,null,0
+Tuynman,Student,4/11/2016,13:09:55,3,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,13:10:08,3,Learning,,,Self,0
+Tuynman,Student,4/11/2016,13:10:26,4,Learning,,,Self,0
+Tuynman,Student,4/11/2016,13:12:28,5,Learning,,,Self,0
+Tuynman,Student,4/11/2016,13:14:29,6,Learning,,,Self,0
+Tuynman,Student,4/11/2016,13:16:11,6,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,13:16:18,6,Learning,,,,0
+Tuynman,Student,4/11/2016,13:16:30,7,Learning,,,,0
+Tuynman,Student,4/11/2016,13:18:32,8,Learning,,,,0
+Tuynman,Student,4/11/2016,13:20:34,9,Learning,,,,0
+Tuynman,Student,4/11/2016,13:20:55,9,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:21:07,9,Learning,,,,0
+Tuynman,Student,4/11/2016,13:22:35,10,Learning,,,,0
+Tuynman,Student,4/11/2016,13:24:36,11,Learning,,,,0
+Tuynman,Student,4/11/2016,13:25:32,11,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:25:48,11,Learning,,,,0
+Tuynman,Student,4/11/2016,13:26:37,12,Learning,,,,0
+Tuynman,Student,4/11/2016,13:28:39,13,Learning,,,,0
+Tuynman,Student,4/11/2016,13:30:09,13,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:30:21,13,Learning,,,,0
+Tuynman,Student,4/11/2016,13:30:40,14,Learning,,,,0
+Tuynman,Student,4/11/2016,13:31:36,14,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:31:48,14,Learning,,,,0
+Tuynman,Student,4/11/2016,13:32:36,14,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:32:42,15,Learning,,,,0
+Tuynman,Student,4/11/2016,13:32:52,15,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:33:14,15,Learning,,,,0
+Tuynman,Student,4/11/2016,13:33:31,15,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/11/2016,13:33:51,15,Learning,,,,0
+Tuynman,Student,4/11/2016,13:34:43,16,Learning,,,,0
+Tuynman,Student,4/11/2016,13:36:44,17,Learning,,,,0
+Tuynman,Student,4/11/2016,13:37:58,17,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:38:46,18,Learning,,,,0
+Tuynman,Student,4/11/2016,13:38:55,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:39:14,18,Learning,,,,0
+Tuynman,Student,4/11/2016,13:39:18,18,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/11/2016,13:39:26,18,Learning,,,,0
+Tuynman,Student,4/11/2016,13:39:29,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:40:06,18,Learning,,,,0
+Tuynman,Student,4/11/2016,13:40:16,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:40:48,19,Learning,,,,0
+Tuynman,Student,4/11/2016,13:41:03,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:41:17,19,Learning,,,,0
+Tuynman,Student,4/11/2016,13:41:22,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:41:45,19,Learning,,,,0
+Tuynman,Student,4/11/2016,13:42:49,20,Learning,,,,0
+Tuynman,Student,4/11/2016,13:44:53,21,Learning,,,,0
+Tuynman,Student,4/11/2016,13:46:57,22,Learning,,,,0
+Tuynman,Student,4/11/2016,13:48:58,23,Learning,,,,0
+Tuynman,Student,4/11/2016,13:50:59,24,Learning,,,,0
+Tuynman,Student,4/11/2016,13:51:03,24,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:52:20,24,Learning,,,,0
+Tuynman,Student,4/11/2016,13:52:47,24,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:53:01,25,Learning,,,,0
+Tuynman,Student,4/11/2016,13:53:04,25,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:53:38,25,Learning,,,,0
+Tuynman,Student,4/11/2016,13:54:00,25,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:54:27,25,Learning,,,,0
+Tuynman,Student,4/11/2016,13:55:02,26,Learning,,,,0
+Tuynman,Student,4/11/2016,13:55:19,26,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,13:55:36,26,Learning,,,Self,0
+Tuynman,Student,4/11/2016,13:56:03,26,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:56:31,26,Learning,,,,0
+Tuynman,Student,4/11/2016,13:56:49,26,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:57:04,27,Learning,,,,0
+Tuynman,Student,4/11/2016,13:57:26,27,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,13:57:46,27,Learning,,,Self,0
+Tuynman,Student,4/11/2016,13:57:47,27,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:58:18,27,Learning,,,,0
+Tuynman,Student,4/11/2016,13:58:53,27,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:59:06,28,Learning,,,,0
+Tuynman,Student,4/11/2016,13:59:17,28,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,13:59:32,28,Learning,,,,0
+Tuynman,Student,4/11/2016,14:00:16,28,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:00:26,28,Learning,,,,0
+Tuynman,Student,4/11/2016,14:00:53,28,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:01:08,29,Learning,,,,0
+Tuynman,Student,4/11/2016,14:02:42,29,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,14:02:59,29,Learning,,,Self,0
+Tuynman,Student,4/11/2016,14:03:00,29,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:03:11,30,Learning,,,,0
+Tuynman,Student,4/11/2016,14:04:18,30,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:05:03,30,Learning,,,,0
+Tuynman,Student,4/11/2016,14:05:14,31,Learning,,,,0
+Tuynman,Student,4/11/2016,14:07:16,32,Learning,,,,0
+Tuynman,Student,4/11/2016,14:07:26,32,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:08:30,32,Learning,,,,0
+Tuynman,Student,4/11/2016,14:09:17,33,Learning,,,,0
+Tuynman,Student,4/11/2016,14:10:59,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:11:19,34,Learning,,,,0
+Tuynman,Student,4/11/2016,14:11:24,34,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:12:27,34,Learning,,,,0
+Tuynman,Student,4/11/2016,14:13:21,35,Learning,,,,0
+Tuynman,Student,4/11/2016,14:15:23,36,Learning,,,,0
+Tuynman,Student,4/11/2016,14:16:23,36,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:16:30,36,Learning,,,,0
+Tuynman,Student,4/11/2016,14:16:43,36,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,14:16:59,36,Learning,,,Self,0
+Tuynman,Student,4/11/2016,14:17:00,36,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:17:09,36,Learning,,,,0
+Tuynman,Student,4/11/2016,14:17:24,37,Learning,,,,0
+Tuynman,Student,4/11/2016,14:17:34,37,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:17:50,37,Learning,,,,0
+Tuynman,Student,4/11/2016,14:19:26,38,Learning,,,,0
+Tuynman,Student,4/11/2016,14:19:58,38,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:20:10,38,Learning,,,,0
+Tuynman,Student,4/11/2016,14:20:11,38,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,14:20:36,38,Learning,,,Self,0
+Tuynman,Student,4/11/2016,14:21:17,38,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,14:21:29,39,Learning,,,Self,0
+Tuynman,Student,4/11/2016,14:23:17,39,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:23:28,39,Learning,,,,0
+Tuynman,Student,4/11/2016,14:23:32,40,Learning,,,,0
+Tuynman,Student,4/11/2016,14:23:42,40,Distracted,Internal,Other,Open the door to students that come in the classroom.,0
+Tuynman,Student,4/11/2016,14:24:40,40,Learning,,,Open the door to students that come in the classroom.,0
+Tuynman,Student,4/11/2016,14:24:41,40,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/11/2016,14:25:33,41,Learning,,,,0
+Tuynman,Student,4/11/2016,14:26:07,41,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/11/2016,14:27:34,42,Learning,,,Self,0
+Tuynman,Student,4/11/2016,14:29:01,42,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/11/2016,14:29:12,42,Learning,,,,0
+Tuynman,Student,4/11/2016,14:29:36,43,Learning,,,,0
+Tuynman,Session,4/11/2016,14:31:35,Student,End,0,0,,
+Tuynman,Session,4/12/2016,8:19:24,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/12/2016,8:19:28,Teaching,On,0,,,
+Tuynman,Teacher,4/12/2016,9:12:14,Teaching,Off,0,,,
+Tuynman,Teacher,4/12/2016,9:12:15,Teaching,On,0,,,
+Tuynman,Session,4/12/2016,9:49:21,Teacher,End,,0,,
+Tuynman,Session,4/12/2016,10:50:15,Teacher,Begin,Math,0,,
+Tuynman,Teacher,4/12/2016,10:50:16,Teaching,On,0,,,
+Tuynman,Teacher,4/12/2016,10:51:37,Teaching,Off,0,,,
+Tuynman,Teacher,4/12/2016,10:52:31,Teaching,On,0,,,
+Tuynman,Teacher,4/12/2016,10:57:11,Teaching,Off,0,,,
+Tuynman,Teacher,4/12/2016,10:57:46,Teaching,On,0,,,
+Tuynman,Teacher,4/12/2016,11:01:57,Teaching,Off,0,,,
+Tuynman,Teacher,4/12/2016,11:02:27,Teaching,On,0,,,
+Tuynman,Teacher,4/12/2016,11:06:53,Raising Voice,On,0,,,
+Tuynman,Teacher,4/12/2016,11:07:21,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/12/2016,11:10:57,Teaching,Off,0,,,
+Tuynman,Teacher,4/12/2016,11:11:54,Teaching,On,0,,,
+Tuynman,Session,4/12/2016,11:13:42,Teacher,End,,0,,
+Tuynman,Session,4/12/2016,11:20:57,Teacher,Begin,Social Studies,0,,
+Tuynman,Teacher,4/12/2016,11:20:59,Teaching,On,0,,,
+Tuynman,Session,4/12/2016,11:28:42,Teacher,End,,0,,
+Tuynman,Session,4/12/2016,11:28:45,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/12/2016,11:28:47,Teaching,On,0,,,
+Tuynman,Session,4/12/2016,11:37:08,Teacher,End,,0,,
+Tuynman,Session,4/12/2016,11:37:10,Teacher,Begin,Math,0,,
+Tuynman,Teacher,4/12/2016,11:37:12,Teaching,On,0,,,
+Tuynman,Session,4/12/2016,12:10:11,Teacher,End,,0,,
+Tuynman,Session,4/13/2016,8:21:04,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/13/2016,8:21:05,Teaching,On,0,,,
+Tuynman,Teacher,4/13/2016,8:44:10,Teaching,Off,0,,,
+Tuynman,Teacher,4/13/2016,8:44:11,Teaching,On,0,,,
+Tuynman,Teacher,4/13/2016,8:44:35,Teaching,Off,0,,,
+Tuynman,Teacher,4/13/2016,8:44:38,Teaching,On,0,,,
+Tuynman,Session,4/13/2016,9:45:36,Teacher,End,,0,,
+Tuynman,Session,4/13/2016,10:44:21,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/13/2016,10:44:22,Teaching,On,0,,,
+Tuynman,Session,4/13/2016,11:22:23,Teacher,End,,0,,
+Tuynman,Session,4/13/2016,11:24:42,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/13/2016,11:24:43,Teaching,On,0,,,
+Tuynman,Session,4/13/2016,12:08:59,Teacher,End,,0,,
+Tuynman,Session,4/14/2016,12:30:55,Noise,Begin,,0,,
+Tuynman,Noise,4/14/2016,12:30:57,7,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:33:02,20,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:34:34,18,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:36:23,22,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:38:30,20,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:40:23,23,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:42:55,21,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:45:32,23,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:49:05,21,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:52:11,17,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:53:59,19,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:55:28,7,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,12:59:17,25,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:04:39,23,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:05:49,19,Traffic,Truck,,0,
+Tuynman,Noise,4/14/2016,13:06:21,28,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:08:06,15,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:08:42,33,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:11:55,28,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:13:01,30,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:14:15,8,Traffic,Truck,,0,
+Tuynman,Noise,4/14/2016,13:14:54,20,Traffic,Truck,Street Cleaning,0,
+Tuynman,Noise,4/14/2016,13:15:42,8,Traffic,Auto,,0,
+Tuynman,Noise,4/14/2016,13:16:06,23,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:17:39,23,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:19:09,10,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:19:49,25,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:21:06,38,Aircraft,Jet Departure,,0,
+Tuynman,Noise,4/14/2016,13:22:01,29,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:23:31,25,Traffic,Truck,,0,
+Tuynman,Noise,4/14/2016,13:24:17,31,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:26:33,21,Traffic,Truck,,0,
+Tuynman,Noise,4/14/2016,13:28:51,37,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:30:50,10,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:32:01,17,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:33:15,5,Traffic,Truck,,0,
+Tuynman,Noise,4/14/2016,13:33:23,18,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:34:29,15,Traffic,Truck,,0,
+Tuynman,Noise,4/14/2016,13:34:46,23,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:36:47,33,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:37:53,26,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:40:50,24,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:44:27,24,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:47:15,7,Traffic,Truck,,0,
+Tuynman,Noise,4/14/2016,13:47:24,21,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:48:44,29,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:50:59,27,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:52:39,28,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:54:41,31,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/14/2016,13:58:33,25,Aircraft,Jet Arrival,,0,
+Tuynman,Session,4/14/2016,14:00:09,Noise,End,,0,,
+Tuynman,Session,4/15/2016,8:30:04,Student,Begin,2,0,,
+Tuynman,Student,4/15/2016,8:30:05,1,Learning,,,null,0
+Tuynman,Student,4/15/2016,8:32:07,2,Learning,,,null,0
+Tuynman,Student,4/15/2016,8:32:24,2,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,8:32:43,2,Learning,,,,0
+Tuynman,Student,4/15/2016,8:34:08,3,Learning,,,,0
+Tuynman,Student,4/15/2016,8:35:25,3,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,8:35:33,3,Learning,,,,0
+Tuynman,Student,4/15/2016,8:36:09,4,Learning,,,,0
+Tuynman,Student,4/15/2016,8:38:08,4,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/15/2016,8:38:18,5,Learning,,,,0
+Tuynman,Student,4/15/2016,8:38:20,5,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/15/2016,8:39:30,5,Learning,,,,0
+Tuynman,Student,4/15/2016,8:40:19,6,Learning,,,,0
+Tuynman,Student,4/15/2016,8:41:05,6,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,8:41:17,6,Learning,,,Self,0
+Tuynman,Student,4/15/2016,8:42:23,7,Learning,,,Self,0
+Tuynman,Student,4/15/2016,8:43:21,7,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,8:43:31,7,Learning,,,Self,0
+Tuynman,Student,4/15/2016,8:44:24,8,Learning,,,Self,0
+Tuynman,Student,4/15/2016,8:45:21,8,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,8:45:28,8,Learning,,,,0
+Tuynman,Student,4/15/2016,8:46:26,9,Learning,,,,0
+Tuynman,Student,4/15/2016,8:48:27,10,Learning,,,,0
+Tuynman,Student,4/15/2016,8:50:28,11,Learning,,,,0
+Tuynman,Student,4/15/2016,8:52:31,12,Learning,,,,0
+Tuynman,Student,4/15/2016,8:54:22,12,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,8:54:32,13,Learning,,,,0
+Tuynman,Student,4/15/2016,8:56:34,14,Learning,,,,0
+Tuynman,Student,4/15/2016,8:58:35,15,Learning,,,,0
+Tuynman,Student,4/15/2016,9:00:37,16,Learning,,,,0
+Tuynman,Student,4/15/2016,9:02:38,17,Learning,,,,0
+Tuynman,Student,4/15/2016,9:04:39,18,Learning,,,,0
+Tuynman,Student,4/15/2016,9:06:40,19,Learning,,,,0
+Tuynman,Student,4/15/2016,9:06:44,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,9:07:03,19,Learning,,,,0
+Tuynman,Student,4/15/2016,9:08:43,20,Learning,,,,0
+Tuynman,Student,4/15/2016,9:10:45,21,Learning,,,,0
+Tuynman,Student,4/15/2016,9:11:09,21,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,9:11:22,21,Learning,,,,0
+Tuynman,Student,4/15/2016,9:12:03,21,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,9:12:15,21,Learning,,,,0
+Tuynman,Student,4/15/2016,9:12:47,22,Learning,,,,0
+Tuynman,Student,4/15/2016,9:14:48,23,Learning,,,,0
+Tuynman,Student,4/15/2016,9:16:51,24,Learning,,,,0
+Tuynman,Student,4/15/2016,9:18:52,25,Learning,,,,0
+Tuynman,Student,4/15/2016,9:19:36,25,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,9:20:42,25,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:20:54,26,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:23:02,27,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:23:52,27,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,9:24:39,27,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:25:06,28,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:27:08,29,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:29:10,30,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:31:11,31,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:33:13,32,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:33:24,32,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,9:34:06,32,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:35:14,33,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:37:15,34,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:37:24,34,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,9:37:34,34,Learning,,,,0
+Tuynman,Student,4/15/2016,9:39:17,35,Learning,,,,0
+Tuynman,Student,4/15/2016,9:39:29,35,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,9:39:46,35,Learning,,,,0
+Tuynman,Student,4/15/2016,9:41:20,36,Learning,,,,0
+Tuynman,Student,4/15/2016,9:43:21,37,Learning,,,,0
+Tuynman,Student,4/15/2016,9:43:26,37,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,9:44:06,37,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:45:24,38,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:47:26,39,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:48:54,39,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,9:49:05,39,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:49:28,40,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:51:29,41,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:53:30,42,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:55:32,43,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:56:01,43,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/15/2016,9:56:31,43,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:57:33,44,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:59:34,45,Learning,,,Self,0
+Tuynman,Student,4/15/2016,9:59:46,45,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,10:00:08,45,Learning,,,,0
+Tuynman,Session,4/15/2016,10:01:34,Student,End,0,0,,
+Tuynman,Session,4/15/2016,12:56:47,Student,Begin,2,0,,
+Tuynman,Student,4/15/2016,12:56:49,1,Learning,,,null,0
+Tuynman,Student,4/15/2016,12:58:40,1,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/15/2016,12:58:51,2,Learning,,,,0
+Tuynman,Student,4/15/2016,12:58:54,2,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/15/2016,12:59:00,2,Learning,,,,0
+Tuynman,Student,4/15/2016,13:00:53,3,Learning,,,,0
+Tuynman,Student,4/15/2016,13:02:54,4,Learning,,,,0
+Tuynman,Student,4/15/2016,13:04:56,5,Learning,,,,0
+Tuynman,Student,4/15/2016,13:07:01,6,Learning,,,,0
+Tuynman,Student,4/15/2016,13:09:02,7,Learning,,,,0
+Tuynman,Student,4/15/2016,13:11:04,8,Learning,,,,0
+Tuynman,Student,4/15/2016,13:13:05,9,Learning,,,,0
+Tuynman,Student,4/15/2016,13:14:07,9,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,13:14:12,9,Learning,,,,0
+Tuynman,Student,4/15/2016,13:15:06,10,Learning,,,,0
+Tuynman,Student,4/15/2016,13:16:46,10,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,13:16:51,10,Learning,,,,0
+Tuynman,Student,4/15/2016,13:17:07,11,Learning,,,,0
+Tuynman,Student,4/15/2016,13:18:27,11,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,13:18:35,11,Learning,,,,0
+Tuynman,Student,4/15/2016,13:19:08,12,Learning,,,,0
+Tuynman,Student,4/15/2016,13:20:31,12,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:20:39,12,Learning,,,,0
+Tuynman,Student,4/15/2016,13:21:09,13,Learning,,,,0
+Tuynman,Student,4/15/2016,13:21:14,13,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:22:17,13,Learning,,,,0
+Tuynman,Student,4/15/2016,13:23:10,14,Learning,,,,0
+Tuynman,Student,4/15/2016,13:23:13,14,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:23:20,14,Learning,,,,0
+Tuynman,Student,4/15/2016,13:24:20,14,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:24:33,14,Learning,,,,0
+Tuynman,Student,4/15/2016,13:25:12,15,Learning,,,,0
+Tuynman,Student,4/15/2016,13:26:09,15,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:26:17,15,Learning,,,,0
+Tuynman,Student,4/15/2016,13:26:58,15,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:27:05,15,Learning,,,,0
+Tuynman,Student,4/15/2016,13:27:13,16,Learning,,,,0
+Tuynman,Student,4/15/2016,13:27:28,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:27:47,16,Learning,,,,0
+Tuynman,Student,4/15/2016,13:28:00,16,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,13:28:08,16,Learning,,,,0
+Tuynman,Student,4/15/2016,13:28:11,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:28:40,16,Learning,,,,0
+Tuynman,Student,4/15/2016,13:29:14,17,Learning,,,,0
+Tuynman,Student,4/15/2016,13:29:19,17,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:29:25,17,Learning,,,,0
+Tuynman,Student,4/15/2016,13:29:29,17,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:29:52,17,Learning,,,,0
+Tuynman,Student,4/15/2016,13:31:15,18,Learning,,,,0
+Tuynman,Student,4/15/2016,13:31:24,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:31:29,18,Learning,,,,0
+Tuynman,Student,4/15/2016,13:31:33,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:31:49,18,Learning,,,,0
+Tuynman,Student,4/15/2016,13:32:39,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:32:46,18,Learning,,,,0
+Tuynman,Student,4/15/2016,13:33:17,19,Learning,,,,0
+Tuynman,Student,4/15/2016,13:34:52,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:35:26,20,Learning,,,,0
+Tuynman,Student,4/15/2016,13:35:54,20,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:36:07,20,Learning,,,,0
+Tuynman,Student,4/15/2016,13:36:47,20,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:36:55,20,Learning,,,,0
+Tuynman,Student,4/15/2016,13:37:17,20,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:37:21,20,Learning,,,,0
+Tuynman,Student,4/15/2016,13:37:27,21,Learning,,,,0
+Tuynman,Student,4/15/2016,13:37:50,21,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:38:08,21,Learning,,,,0
+Tuynman,Student,4/15/2016,13:38:37,21,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/15/2016,13:38:42,21,Learning,,,,0
+Tuynman,Student,4/15/2016,13:39:28,22,Learning,,,,0
+Tuynman,Student,4/15/2016,13:39:54,22,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:40:00,22,Learning,,,,0
+Tuynman,Student,4/15/2016,13:41:29,23,Learning,,,,0
+Tuynman,Student,4/15/2016,13:41:32,23,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:41:41,23,Learning,,,,0
+Tuynman,Student,4/15/2016,13:41:46,23,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:42:18,23,Learning,,,,0
+Tuynman,Student,4/15/2016,13:43:04,23,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:43:22,23,Learning,,,,0
+Tuynman,Student,4/15/2016,13:43:31,24,Learning,,,,0
+Tuynman,Student,4/15/2016,13:43:49,24,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:44:19,24,Learning,,,,0
+Tuynman,Student,4/15/2016,13:44:52,24,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:45:05,24,Learning,,,,0
+Tuynman,Student,4/15/2016,13:45:14,24,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:45:22,24,Learning,,,,0
+Tuynman,Student,4/15/2016,13:45:32,25,Learning,,,,0
+Tuynman,Student,4/15/2016,13:46:00,25,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:46:06,25,Learning,,,,0
+Tuynman,Student,4/15/2016,13:46:38,25,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:46:46,25,Learning,,,,0
+Tuynman,Student,4/15/2016,13:47:03,25,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:47:09,25,Learning,,,,0
+Tuynman,Student,4/15/2016,13:47:33,26,Learning,,,,0
+Tuynman,Student,4/15/2016,13:48:04,26,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/15/2016,13:48:17,26,Learning,,,,0
+Tuynman,Student,4/15/2016,13:49:34,27,Learning,,,,0
+Tuynman,Student,4/15/2016,13:51:35,28,Learning,,,,0
+Tuynman,Student,4/15/2016,13:53:38,29,Learning,,,,0
+Tuynman,Student,4/15/2016,13:55:39,30,Learning,,,,0
+Tuynman,Student,4/15/2016,13:57:40,31,Learning,,,,0
+Tuynman,Student,4/15/2016,13:59:42,32,Learning,,,,0
+Tuynman,Student,4/15/2016,14:01:43,33,Learning,,,,0
+Tuynman,Student,4/15/2016,14:03:45,34,Learning,,,,0
+Tuynman,Student,4/15/2016,14:05:46,35,Learning,,,,0
+Tuynman,Student,4/15/2016,14:07:48,36,Learning,,,,0
+Tuynman,Student,4/15/2016,14:09:49,37,Learning,,,,0
+Tuynman,Student,4/15/2016,14:11:50,38,Learning,,,,0
+Tuynman,Student,4/15/2016,14:13:52,39,Learning,,,,0
+Tuynman,Session,4/15/2016,14:15:51,Student,End,0,0,,
+Tuynman,Session,4/18/2016,8:30:01,Student,Begin,2,0,,
+Tuynman,Student,4/18/2016,8:30:02,1,Learning,,,null,0
+Tuynman,Student,4/18/2016,8:32:04,2,Learning,,,null,0
+Tuynman,Student,4/18/2016,8:34:05,3,Learning,,,null,0
+Tuynman,Student,4/18/2016,8:36:06,4,Learning,,,null,0
+Tuynman,Student,4/18/2016,8:37:38,4,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,8:38:03,4,Learning,,,,0
+Tuynman,Student,4/18/2016,8:38:07,5,Learning,,,,0
+Tuynman,Student,4/18/2016,8:40:09,6,Learning,,,,0
+Tuynman,Student,4/18/2016,8:42:11,7,Learning,,,,0
+Tuynman,Student,4/18/2016,8:44:12,8,Learning,,,,0
+Tuynman,Student,4/18/2016,8:46:13,9,Learning,,,,0
+Tuynman,Student,4/18/2016,8:48:14,10,Learning,,,,0
+Tuynman,Student,4/18/2016,8:50:19,11,Learning,,,,0
+Tuynman,Student,4/18/2016,8:51:18,11,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,8:51:45,11,Learning,,,Self,0
+Tuynman,Student,4/18/2016,8:52:20,12,Learning,,,Self,0
+Tuynman,Student,4/18/2016,8:52:54,12,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,8:53:11,12,Learning,,,Self,0
+Tuynman,Student,4/18/2016,8:54:22,13,Learning,,,Self,0
+Tuynman,Student,4/18/2016,8:56:23,14,Learning,,,Self,0
+Tuynman,Student,4/18/2016,8:58:24,15,Learning,,,Self,0
+Tuynman,Student,4/18/2016,8:58:51,15,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,8:58:59,15,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:00:25,16,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:02:26,17,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:04:28,18,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:06:29,19,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:08:31,20,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:10:23,20,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,9:10:32,21,Learning,,,,0
+Tuynman,Student,4/18/2016,9:12:29,21,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,9:12:34,22,Learning,,,,0
+Tuynman,Student,4/18/2016,9:13:24,22,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,9:13:34,22,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:13:35,22,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,9:14:02,22,Learning,,,,0
+Tuynman,Student,4/18/2016,9:14:35,23,Learning,,,,0
+Tuynman,Student,4/18/2016,9:16:36,24,Learning,,,,0
+Tuynman,Student,4/18/2016,9:17:11,24,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,9:18:38,25,Learning,,,,0
+Tuynman,Student,4/18/2016,9:20:39,26,Learning,,,,0
+Tuynman,Student,4/18/2016,9:21:27,26,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,9:21:38,26,Learning,,,,0
+Tuynman,Student,4/18/2016,9:22:41,27,Learning,,,,0
+Tuynman,Student,4/18/2016,9:24:43,28,Learning,,,,0
+Tuynman,Student,4/18/2016,9:26:44,29,Learning,,,,0
+Tuynman,Student,4/18/2016,9:27:38,29,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,9:27:49,29,Learning,,,,0
+Tuynman,Student,4/18/2016,9:28:27,29,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/18/2016,9:28:33,29,Learning,,,,0
+Tuynman,Student,4/18/2016,9:28:45,30,Learning,,,,0
+Tuynman,Student,4/18/2016,9:28:58,30,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,9:29:19,30,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:30:47,31,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:30:51,31,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,9:31:15,31,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:32:48,32,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:34:53,33,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:36:54,34,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:38:55,35,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:40:56,36,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:42:58,37,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:45:00,38,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:47:02,39,Learning,,,Self,0
+Tuynman,Student,4/18/2016,9:48:27,39,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,9:49:04,40,Learning,,,,0
+Tuynman,Student,4/18/2016,9:51:06,41,Learning,,,,0
+Tuynman,Student,4/18/2016,9:53:11,42,Learning,,,,0
+Tuynman,Student,4/18/2016,9:55:14,43,Learning,,,,0
+Tuynman,Student,4/18/2016,9:57:16,44,Learning,,,,0
+Tuynman,Student,4/18/2016,9:59:17,45,Learning,,,,0
+Tuynman,Session,4/18/2016,10:01:16,Student,End,0,0,,
+Tuynman,Session,4/18/2016,13:15:04,Student,Begin,2,0,,
+Tuynman,Student,4/18/2016,13:15:06,1,Learning,,,null,0
+Tuynman,Student,4/18/2016,13:15:18,1,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,13:15:53,1,Learning,,,,0
+Tuynman,Student,4/18/2016,13:17:12,2,Learning,,,,0
+Tuynman,Student,4/18/2016,13:18:30,2,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,13:18:44,2,Learning,,,,0
+Tuynman,Student,4/18/2016,13:19:14,3,Learning,,,,0
+Tuynman,Student,4/18/2016,13:21:15,4,Learning,,,,0
+Tuynman,Student,4/18/2016,13:23:19,5,Learning,,,,0
+Tuynman,Student,4/18/2016,13:24:58,5,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,13:25:10,5,Learning,,,,0
+Tuynman,Student,4/18/2016,13:25:24,6,Learning,,,,0
+Tuynman,Student,4/18/2016,13:27:26,7,Learning,,,,0
+Tuynman,Student,4/18/2016,13:29:27,8,Learning,,,,0
+Tuynman,Student,4/18/2016,13:31:29,9,Learning,,,,0
+Tuynman,Student,4/18/2016,13:32:12,9,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,13:33:31,10,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:35:32,11,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:37:33,12,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:39:35,13,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:41:36,14,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:43:38,15,Learning,,,Self,0
+Tuynman,Session,4/18/2016,13:43:39,Student,End,0,0,,
+Tuynman,Session,4/18/2016,13:46:13,Student,Begin,2,0,,
+Tuynman,Student,4/18/2016,13:46:15,1,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:48:16,2,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:50:17,3,Learning,,,Self,0
+Tuynman,Student,4/18/2016,13:51:11,3,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/18/2016,13:51:16,3,Learning,,,,0
+Tuynman,Student,4/18/2016,13:52:18,4,Learning,,,,0
+Tuynman,Student,4/18/2016,13:53:31,4,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,13:53:39,4,Learning,,,,0
+Tuynman,Student,4/18/2016,13:54:19,5,Learning,,,,0
+Tuynman,Student,4/18/2016,13:54:28,5,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,13:54:35,5,Learning,,,,0
+Tuynman,Student,4/18/2016,13:56:20,6,Learning,,,,0
+Tuynman,Student,4/18/2016,13:58:21,7,Learning,,,,0
+Tuynman,Student,4/18/2016,13:58:37,7,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/18/2016,13:58:42,7,Learning,,,,0
+Tuynman,Student,4/18/2016,13:59:10,7,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,13:59:33,7,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:00:23,8,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:01:51,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,14:01:57,8,Learning,,,,0
+Tuynman,Student,4/18/2016,14:02:18,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,14:02:25,9,Learning,,,,0
+Tuynman,Student,4/18/2016,14:04:26,10,Learning,,,,0
+Tuynman,Student,4/18/2016,14:06:27,11,Learning,,,,0
+Tuynman,Student,4/18/2016,14:08:28,12,Learning,,,,0
+Tuynman,Student,4/18/2016,14:09:03,12,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,14:09:29,12,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:10:30,13,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:12:31,14,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:14:32,15,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:16:34,16,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:16:53,16,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,14:17:01,16,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:17:20,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,14:17:26,16,Learning,,,,0
+Tuynman,Student,4/18/2016,14:17:46,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,14:17:52,16,Learning,,,,0
+Tuynman,Student,4/18/2016,14:18:35,17,Learning,,,,0
+Tuynman,Student,4/18/2016,14:19:44,17,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,14:20:02,17,Learning,,,,0
+Tuynman,Student,4/18/2016,14:20:21,17,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,14:20:36,18,Learning,,,,0
+Tuynman,Student,4/18/2016,14:22:37,19,Learning,,,,0
+Tuynman,Student,4/18/2016,14:23:05,19,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,14:23:40,19,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:23:48,19,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,14:24:38,20,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:26:01,20,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/18/2016,14:26:20,20,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:26:40,21,Learning,,,Self,0
+Tuynman,Student,4/18/2016,14:27:42,21,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/18/2016,14:28:41,22,Learning,,,,0
+Tuynman,Session,4/18/2016,14:30:41,Student,End,0,0,,
+Tuynman,Session,4/19/2016,8:30:51,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/19/2016,8:30:52,Teaching,On,0,,,
+Tuynman,Teacher,4/19/2016,8:46:08,Teaching,Off,0,,,
+Tuynman,Teacher,4/19/2016,8:46:25,Teaching,On,0,,,
+Tuynman,Session,4/19/2016,8:53:16,Teacher,End,,0,,
+Tuynman,Session,4/19/2016,8:53:18,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/19/2016,8:53:20,Teaching,On,0,,,
+Tuynman,Session,4/19/2016,9:17:36,Teacher,End,,0,,
+Tuynman,Session,4/19/2016,9:31:02,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/19/2016,9:31:04,Teaching,On,0,,,
+Tuynman,Teacher,4/19/2016,9:43:07,Teaching,Off,0,,,
+Tuynman,Teacher,4/19/2016,9:44:03,Teaching,On,0,,,
+Tuynman,Session,4/19/2016,9:59:53,Teacher,End,,0,,
+Tuynman,Session,4/20/2016,13:15:11,Student,Begin,2,0,,
+Tuynman,Student,4/20/2016,13:15:14,1,Learning,,,null,0
+Tuynman,Student,4/20/2016,13:15:57,1,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/20/2016,13:16:10,1,Learning,,,,0
+Tuynman,Student,4/20/2016,13:16:42,1,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/20/2016,13:16:49,1,Learning,,,,0
+Tuynman,Student,4/20/2016,13:17:25,2,Learning,,,,0
+Tuynman,Student,4/20/2016,13:17:45,2,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:18:01,2,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/20/2016,13:18:16,2,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:18:41,2,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:18:49,2,Learning,,,,0
+Tuynman,Student,4/20/2016,13:19:11,2,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/20/2016,13:19:27,3,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:20:09,3,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:20:18,3,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/20/2016,13:20:48,3,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:20:49,3,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:21:00,3,Learning,,,,0
+Tuynman,Student,4/20/2016,13:21:29,4,Learning,,,,0
+Tuynman,Student,4/20/2016,13:23:31,5,Learning,,,,0
+Tuynman,Student,4/20/2016,13:23:48,5,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/20/2016,13:24:30,5,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:25:32,6,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:25:44,6,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/20/2016,13:25:54,6,Learning,,,,0
+Tuynman,Student,4/20/2016,13:26:51,6,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/20/2016,13:27:34,7,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:27:38,7,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:28:14,7,Learning,,,,0
+Tuynman,Student,4/20/2016,13:29:17,7,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:29:35,8,Learning,,,,0
+Tuynman,Student,4/20/2016,13:29:39,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:31:36,9,Learning,,,,0
+Tuynman,Student,4/20/2016,13:32:08,9,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:32:36,9,Learning,,,,0
+Tuynman,Student,4/20/2016,13:33:38,10,Learning,,,,0
+Tuynman,Student,4/20/2016,13:35:40,11,Learning,,,,0
+Tuynman,Student,4/20/2016,13:37:42,12,Learning,,,,0
+Tuynman,Student,4/20/2016,13:39:19,12,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:39:33,12,Learning,,,,0
+Tuynman,Student,4/20/2016,13:39:47,13,Learning,,,,0
+Tuynman,Student,4/20/2016,13:40:04,13,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:40:46,13,Learning,,,,0
+Tuynman,Student,4/20/2016,13:41:49,14,Learning,,,,0
+Tuynman,Student,4/20/2016,13:41:58,14,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:42:06,14,Learning,,,,0
+Tuynman,Student,4/20/2016,13:43:50,15,Learning,,,,0
+Tuynman,Student,4/20/2016,13:45:54,16,Learning,,,,0
+Tuynman,Student,4/20/2016,13:46:07,16,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/20/2016,13:46:24,16,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:46:46,16,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/20/2016,13:46:56,16,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:47:56,17,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:49:57,18,Learning,,,Self,0
+Tuynman,Student,4/20/2016,13:51:34,18,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:51:59,19,Learning,,,,0
+Tuynman,Student,4/20/2016,13:52:55,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:53:23,19,Learning,,,,0
+Tuynman,Student,4/20/2016,13:54:00,20,Learning,,,,0
+Tuynman,Student,4/20/2016,13:54:09,20,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:54:30,20,Learning,,,,0
+Tuynman,Student,4/20/2016,13:54:33,20,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/20/2016,13:55:15,20,Learning,,,,0
+Tuynman,Student,4/20/2016,13:56:02,21,Learning,,,,0
+Tuynman,Session,4/20/2016,13:56:33,Student,End,0,0,,
+Tuynman,Session,4/21/2016,8:30:25,Student,Begin,2,0,,
+Tuynman,Student,4/21/2016,8:30:27,1,Learning,,,null,0
+Tuynman,Student,4/21/2016,8:32:29,2,Learning,,,null,0
+Tuynman,Student,4/21/2016,8:34:34,3,Learning,,,null,0
+Tuynman,Student,4/21/2016,8:35:38,3,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/21/2016,8:35:45,3,Learning,,,,0
+Tuynman,Student,4/21/2016,8:36:35,4,Learning,,,,0
+Tuynman,Student,4/21/2016,8:38:37,5,Learning,,,,0
+Tuynman,Student,4/21/2016,8:40:46,6,Learning,,,,0
+Tuynman,Student,4/21/2016,8:42:47,7,Learning,,,,0
+Tuynman,Student,4/21/2016,8:44:49,8,Learning,,,,0
+Tuynman,Student,4/21/2016,8:46:51,9,Learning,,,,0
+Tuynman,Student,4/21/2016,8:48:52,10,Learning,,,,0
+Tuynman,Student,4/21/2016,8:50:53,11,Learning,,,,0
+Tuynman,Student,4/21/2016,8:53:00,12,Learning,,,,0
+Tuynman,Student,4/21/2016,8:55:03,13,Learning,,,,0
+Tuynman,Student,4/21/2016,8:55:57,13,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/21/2016,8:56:02,13,Learning,,,,0
+Tuynman,Student,4/21/2016,8:57:04,14,Learning,,,,0
+Tuynman,Student,4/21/2016,8:59:06,15,Learning,,,,0
+Tuynman,Student,4/21/2016,9:01:08,16,Learning,,,,0
+Tuynman,Student,4/21/2016,9:03:09,17,Learning,,,,0
+Tuynman,Student,4/21/2016,9:05:10,18,Learning,,,,0
+Tuynman,Student,4/21/2016,9:07:11,19,Learning,,,,0
+Tuynman,Student,4/21/2016,9:09:12,20,Learning,,,,0
+Tuynman,Student,4/21/2016,9:11:13,21,Learning,,,,0
+Tuynman,Student,4/21/2016,9:12:49,21,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/21/2016,9:12:57,21,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:13:15,22,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:15:16,23,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:17:17,24,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:19:22,25,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:21:23,26,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:23:25,27,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:25:26,28,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:27:28,29,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:29:29,30,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:31:33,31,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:33:34,32,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:35:37,33,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:37:40,34,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:39:42,35,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:41:43,36,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:44:02,37,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:46:03,38,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:48:04,39,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:50:05,40,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:52:06,41,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:54:07,42,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:56:08,43,Learning,,,Self,0
+Tuynman,Student,4/21/2016,9:58:10,44,Learning,,,Self,0
+Tuynman,Session,4/21/2016,10:00:09,Student,End,0,0,,
+Tuynman,Session,4/21/2016,13:07:25,Student,Begin,2,0,,
+Tuynman,Student,4/21/2016,13:07:27,1,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:09:28,2,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:11:31,3,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:13:33,4,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:15:34,5,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:17:36,6,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:19:43,7,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:21:58,8,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:23:59,9,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:26:17,10,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:28:18,11,Learning,,,null,0
+Tuynman,Student,4/21/2016,13:28:38,11,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/21/2016,13:29:12,11,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:30:22,12,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:32:24,13,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:32:38,13,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/21/2016,13:33:00,13,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:33:25,13,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/21/2016,13:33:45,13,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:34:25,14,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:36:26,15,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:38:28,16,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:39:21,16,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/21/2016,13:39:33,16,Learning,,,,0
+Tuynman,Student,4/21/2016,13:39:48,16,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/21/2016,13:40:29,17,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:41:40,17,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/21/2016,13:42:31,18,Learning,,,Self,0
+Tuynman,Session,4/21/2016,13:43:53,Student,End,0,0,,
+Tuynman,Session,4/21/2016,13:46:11,Student,Begin,2,0,,
+Tuynman,Student,4/21/2016,13:46:13,1,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:48:26,2,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:50:27,3,Learning,,,Self,0
+Tuynman,Student,4/21/2016,13:51:56,3,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/21/2016,13:52:28,4,Learning,,,,0
+Tuynman,Student,4/21/2016,13:54:29,5,Learning,,,,0
+Tuynman,Student,4/21/2016,13:56:31,6,Learning,,,,0
+Tuynman,Student,4/21/2016,13:58:32,7,Learning,,,,0
+Tuynman,Student,4/21/2016,13:59:49,7,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/21/2016,14:00:11,7,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/21/2016,14:00:24,7,Learning,,,,0
+Tuynman,Student,4/21/2016,14:00:33,8,Learning,,,,0
+Tuynman,Student,4/21/2016,14:02:35,9,Learning,,,,0
+Tuynman,Student,4/21/2016,14:03:36,9,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/21/2016,14:04:16,9,Learning,,,,0
+Tuynman,Student,4/21/2016,14:04:36,10,Learning,,,,0
+Tuynman,Student,4/21/2016,14:06:38,11,Learning,,,,0
+Tuynman,Student,4/21/2016,14:07:53,11,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/21/2016,14:08:07,11,Learning,,,,0
+Tuynman,Student,4/21/2016,14:08:39,12,Learning,,,,0
+Tuynman,Student,4/21/2016,14:10:59,13,Learning,,,,0
+Tuynman,Student,4/21/2016,14:13:00,14,Learning,,,,0
+Tuynman,Student,4/21/2016,14:15:01,15,Learning,,,,0
+Tuynman,Student,4/21/2016,14:17:02,16,Learning,,,,0
+Tuynman,Student,4/21/2016,14:19:03,17,Learning,,,,0
+Tuynman,Student,4/21/2016,14:21:04,18,Learning,,,,0
+Tuynman,Student,4/21/2016,14:23:06,19,Learning,,,,0
+Tuynman,Student,4/21/2016,14:25:07,20,Learning,,,,0
+Tuynman,Student,4/21/2016,14:27:08,21,Learning,,,,0
+Tuynman,Student,4/21/2016,14:28:01,21,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/21/2016,14:28:08,21,Learning,,,,0
+Tuynman,Student,4/21/2016,14:29:09,22,Learning,,,,0
+Tuynman,Student,4/21/2016,14:29:33,22,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/21/2016,14:29:42,22,Learning,,,Self,0
+Tuynman,Session,4/21/2016,14:31:09,Student,End,0,0,,
+Tuynman,Session,4/22/2016,8:30:08,Student,Begin,2,0,,
+Tuynman,Student,4/22/2016,8:30:11,1,Learning,,,null,0
+Tuynman,Student,4/22/2016,8:32:12,2,Learning,,,null,0
+Tuynman,Student,4/22/2016,8:34:11,2,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:34:18,3,Learning,,,,0
+Tuynman,Student,4/22/2016,8:34:23,3,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:34:36,3,Learning,,,,0
+Tuynman,Student,4/22/2016,8:36:19,4,Learning,,,,0
+Tuynman,Student,4/22/2016,8:38:20,5,Learning,,,,0
+Tuynman,Student,4/22/2016,8:40:22,6,Learning,,,,0
+Tuynman,Student,4/22/2016,8:41:43,6,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:41:51,6,Learning,,,,0
+Tuynman,Student,4/22/2016,8:42:06,6,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:42:24,7,Learning,,,,0
+Tuynman,Student,4/22/2016,8:42:29,7,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:42:52,7,Learning,,,,0
+Tuynman,Student,4/22/2016,8:44:25,8,Learning,,,,0
+Tuynman,Student,4/22/2016,8:45:02,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:45:10,8,Learning,,,,0
+Tuynman,Student,4/22/2016,8:45:37,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:45:53,8,Learning,,,,0
+Tuynman,Student,4/22/2016,8:46:09,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:46:14,8,Learning,,,,0
+Tuynman,Student,4/22/2016,8:46:27,9,Learning,,,,0
+Tuynman,Student,4/22/2016,8:48:28,10,Learning,,,,0
+Tuynman,Student,4/22/2016,8:49:09,10,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:49:16,10,Learning,,,,0
+Tuynman,Student,4/22/2016,8:49:58,10,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,8:50:04,10,Learning,,,,0
+Tuynman,Student,4/22/2016,8:50:32,11,Learning,,,,0
+Tuynman,Student,4/22/2016,8:52:33,12,Learning,,,,0
+Tuynman,Student,4/22/2016,8:53:03,12,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/22/2016,8:53:07,12,Learning,,,,0
+Tuynman,Student,4/22/2016,8:54:34,13,Learning,,,,0
+Tuynman,Student,4/22/2016,8:56:35,14,Learning,,,,0
+Tuynman,Student,4/22/2016,8:58:36,15,Learning,,,,0
+Tuynman,Student,4/22/2016,9:00:42,16,Learning,,,,0
+Tuynman,Student,4/22/2016,9:01:42,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,9:01:51,16,Learning,,,,0
+Tuynman,Student,4/22/2016,9:02:43,17,Learning,,,,0
+Tuynman,Student,4/22/2016,9:04:44,18,Learning,,,,0
+Tuynman,Student,4/22/2016,9:06:46,19,Learning,,,,0
+Tuynman,Student,4/22/2016,9:07:10,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,9:07:17,19,Learning,,,,0
+Tuynman,Student,4/22/2016,9:08:47,20,Learning,,,,0
+Tuynman,Student,4/22/2016,9:08:55,20,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,9:09:40,20,Learning,,,,0
+Tuynman,Student,4/22/2016,9:10:48,21,Learning,,,,0
+Tuynman,Student,4/22/2016,9:11:37,21,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/22/2016,9:12:50,22,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:13:18,22,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/22/2016,9:13:46,22,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:13:55,22,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/22/2016,9:14:51,23,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:16:52,24,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:18:53,25,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:20:54,26,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:22:56,27,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:24:49,27,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,9:24:57,28,Learning,,,,0
+Tuynman,Student,4/22/2016,9:26:59,29,Learning,,,,0
+Tuynman,Student,4/22/2016,9:29:00,30,Learning,,,,0
+Tuynman,Student,4/22/2016,9:31:01,31,Learning,,,,0
+Tuynman,Student,4/22/2016,9:33:02,32,Learning,,,,0
+Tuynman,Student,4/22/2016,9:35:03,33,Learning,,,,0
+Tuynman,Student,4/22/2016,9:37:04,34,Learning,,,,0
+Tuynman,Student,4/22/2016,9:39:06,35,Learning,,,,0
+Tuynman,Student,4/22/2016,9:40:38,35,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/22/2016,9:41:07,36,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:43:08,37,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:45:14,38,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:47:17,39,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:49:19,40,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:51:22,41,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:53:24,42,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:55:25,43,Learning,,,Self,0
+Tuynman,Student,4/22/2016,9:56:29,43,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/22/2016,9:56:55,43,Learning,,,,0
+Tuynman,Student,4/22/2016,9:57:26,44,Learning,,,,0
+Tuynman,Student,4/22/2016,9:59:27,45,Learning,,,,0
+Tuynman,Session,4/22/2016,10:01:27,Student,End,0,0,,
+Tuynman,Session,4/22/2016,13:16:47,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/22/2016,13:16:49,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,13:21:28,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:21:50,Teaching,On,0,,,
+Tuynman,Session,4/22/2016,13:24:16,Teacher,End,,0,,
+Tuynman,Session,4/22/2016,13:24:18,Teacher,Begin,Math,0,,
+Tuynman,Teacher,4/22/2016,13:24:19,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,13:25:41,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,13:25:43,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:41:28,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,13:41:31,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:43:26,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:43:38,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,13:44:55,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,13:44:59,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:48:34,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:48:36,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,13:49:33,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,13:49:37,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:51:52,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,13:51:53,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,13:59:56,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:00:31,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:01:18,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:01:30,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:01:39,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:02:00,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:05:13,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:05:19,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:06:42,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:06:44,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:09:57,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,14:09:59,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:10:25,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,14:10:26,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:10:28,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:10:40,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,14:10:44,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:10:54,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:11:25,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:11:43,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:12:13,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:13:09,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,14:13:11,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:13:28,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:14:15,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:14:24,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,14:14:29,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:14:44,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:14:48,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:15:03,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:15:28,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:15:44,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:17:47,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:18:48,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:18:58,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:20:19,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:20:42,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:24:14,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:24:24,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:25:42,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:25:58,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:26:35,Masking,On,0,,,
+Tuynman,Teacher,4/22/2016,14:26:36,Masking,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:26:37,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:26:43,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,14:26:48,Raising Voice,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:27:20,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:27:44,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:27:54,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:29:30,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:29:45,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:30:53,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:32:09,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:32:32,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:32:52,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:33:04,Teaching,Off,0,,,
+Tuynman,Teacher,4/22/2016,14:34:03,Teaching,On,0,,,
+Tuynman,Teacher,4/22/2016,14:34:05,Raising Voice,On,0,,,
+Tuynman,Teacher,4/22/2016,14:34:06,Raising Voice,Off,0,,,
+Tuynman,Session,4/22/2016,14:41:15,Teacher,End,,0,,
+Tuynman,Session,4/25/2016,8:30:09,Student,Begin,2,0,,
+Tuynman,Student,4/25/2016,8:30:11,1,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:32:12,2,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:34:13,3,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:36:14,4,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:38:18,5,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:40:20,6,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:42:21,7,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:44:24,8,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:46:25,9,Learning,,,null,0
+Tuynman,Student,4/25/2016,8:46:36,9,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/25/2016,8:48:27,10,Learning,,,,0
+Tuynman,Student,4/25/2016,8:48:55,10,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/25/2016,8:49:48,10,Learning,,,,0
+Tuynman,Student,4/25/2016,8:50:29,11,Learning,,,,0
+Tuynman,Student,4/25/2016,8:51:01,11,Distracted,Internal,Intercom Announcement,,0
+Tuynman,Student,4/25/2016,8:51:07,11,Learning,,,,0
+Tuynman,Student,4/25/2016,8:52:30,12,Learning,,,,0
+Tuynman,Student,4/25/2016,8:54:32,13,Learning,,,,0
+Tuynman,Student,4/25/2016,8:56:33,14,Learning,,,,0
+Tuynman,Student,4/25/2016,8:58:34,15,Learning,,,,0
+Tuynman,Student,4/25/2016,8:59:02,15,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,8:59:17,15,Learning,,,,0
+Tuynman,Student,4/25/2016,9:00:35,16,Learning,,,,0
+Tuynman,Student,4/25/2016,9:02:37,17,Learning,,,,0
+Tuynman,Student,4/25/2016,9:04:38,18,Learning,,,,0
+Tuynman,Student,4/25/2016,9:06:40,19,Learning,,,,0
+Tuynman,Student,4/25/2016,9:08:41,20,Learning,,,,0
+Tuynman,Student,4/25/2016,9:10:47,21,Learning,,,,0
+Tuynman,Student,4/25/2016,9:12:49,22,Learning,,,,0
+Tuynman,Student,4/25/2016,9:14:54,23,Learning,,,,0
+Tuynman,Student,4/25/2016,9:16:56,24,Learning,,,,0
+Tuynman,Student,4/25/2016,9:19:01,25,Learning,,,,0
+Tuynman,Student,4/25/2016,9:21:03,26,Learning,,,,0
+Tuynman,Student,4/25/2016,9:23:04,27,Learning,,,,0
+Tuynman,Student,4/25/2016,9:25:05,28,Learning,,,,0
+Tuynman,Student,4/25/2016,9:27:08,29,Learning,,,,0
+Tuynman,Student,4/25/2016,9:29:09,30,Learning,,,,0
+Tuynman,Student,4/25/2016,9:31:11,31,Learning,,,,0
+Tuynman,Student,4/25/2016,9:33:13,32,Learning,,,,0
+Tuynman,Student,4/25/2016,9:35:14,33,Learning,,,,0
+Tuynman,Student,4/25/2016,9:37:16,34,Learning,,,,0
+Tuynman,Student,4/25/2016,9:39:18,35,Learning,,,,0
+Tuynman,Student,4/25/2016,9:41:19,36,Learning,,,,0
+Tuynman,Student,4/25/2016,9:43:21,37,Learning,,,,0
+Tuynman,Student,4/25/2016,9:45:23,38,Learning,,,,0
+Tuynman,Student,4/25/2016,9:47:24,39,Learning,,,,0
+Tuynman,Student,4/25/2016,9:49:26,40,Learning,,,,0
+Tuynman,Student,4/25/2016,9:51:28,41,Learning,,,,0
+Tuynman,Student,4/25/2016,9:53:29,42,Learning,,,,0
+Tuynman,Student,4/25/2016,9:55:35,43,Learning,,,,0
+Tuynman,Student,4/25/2016,9:57:37,44,Learning,,,,0
+Tuynman,Student,4/25/2016,9:59:38,45,Learning,,,,0
+Tuynman,Student,4/25/2016,10:01:40,46,Learning,,,,0
+Tuynman,Session,4/25/2016,10:01:41,Student,End,0,0,,
+Tuynman,Session,4/25/2016,10:31:43,Student,Begin,2,0,,
+Tuynman,Student,4/25/2016,10:31:44,1,Learning,,,null,0
+Tuynman,Student,4/25/2016,10:33:46,2,Learning,,,null,0
+Tuynman,Student,4/25/2016,10:34:43,2,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,10:35:06,2,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:35:47,3,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:37:48,4,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:38:44,4,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,10:39:10,4,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:39:49,5,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:40:13,5,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,10:40:28,5,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:41:51,6,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:42:20,6,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,10:42:59,6,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:43:52,7,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:45:54,8,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:47:55,9,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:49:13,9,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,10:49:40,9,Learning,,,,0
+Tuynman,Student,4/25/2016,10:49:56,10,Learning,,,,0
+Tuynman,Student,4/25/2016,10:50:07,10,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,10:51:17,10,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:51:57,11,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:53:59,12,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:56:00,13,Learning,,,Self,0
+Tuynman,Student,4/25/2016,10:58:01,14,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:00:02,15,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:02:03,16,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:03:34,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,11:03:45,16,Learning,,,,0
+Tuynman,Student,4/25/2016,11:04:04,17,Learning,,,,0
+Tuynman,Student,4/25/2016,11:06:06,18,Learning,,,,0
+Tuynman,Student,4/25/2016,11:08:07,19,Learning,,,,0
+Tuynman,Student,4/25/2016,11:10:09,20,Learning,,,,0
+Tuynman,Student,4/25/2016,11:10:49,20,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:12:10,21,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:12:33,21,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:12:45,21,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:13:20,21,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:13:49,21,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:14:11,22,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:16:12,23,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:17:37,23,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:17:59,23,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:18:14,24,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:20:17,25,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:22:18,26,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:22:26,26,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:23:15,26,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:24:19,27,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:24:29,27,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:24:45,27,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:26:20,28,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:26:31,28,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:28:21,29,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:30:27,30,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:32:29,31,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:34:30,32,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:34:43,32,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:34:57,32,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:36:13,32,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:36:44,33,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:37:51,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,11:38:05,33,Learning,,,,0
+Tuynman,Student,4/25/2016,11:38:18,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,11:38:25,33,Learning,,,,0
+Tuynman,Student,4/25/2016,11:38:46,34,Learning,,,,0
+Tuynman,Student,4/25/2016,11:39:06,34,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:39:21,34,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:40:47,35,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:42:48,36,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:43:39,36,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,11:44:49,37,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:46:50,38,Learning,,,Self,0
+Tuynman,Student,4/25/2016,11:48:29,38,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,11:48:51,39,Learning,,,,0
+Tuynman,Student,4/25/2016,11:50:52,40,Learning,,,,0
+Tuynman,Session,4/25/2016,11:52:41,Student,End,0,0,,
+Tuynman,Session,4/25/2016,13:15:16,Student,Begin,2,0,,
+Tuynman,Student,4/25/2016,13:15:18,1,Learning,,,null,0
+Tuynman,Student,4/25/2016,13:17:19,2,Learning,,,null,0
+Tuynman,Student,4/25/2016,13:19:20,3,Learning,,,null,0
+Tuynman,Student,4/25/2016,13:21:21,4,Learning,,,null,0
+Tuynman,Student,4/25/2016,13:23:23,5,Learning,,,null,0
+Tuynman,Student,4/25/2016,13:25:00,5,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,13:25:25,6,Learning,,,Self,0
+Tuynman,Student,4/25/2016,13:27:26,7,Learning,,,Self,0
+Tuynman,Student,4/25/2016,13:29:27,8,Learning,,,Self,0
+Tuynman,Student,4/25/2016,13:31:29,9,Learning,,,Self,0
+Tuynman,Student,4/25/2016,13:32:03,9,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/25/2016,13:32:38,9,Learning,,,Self,0
+Tuynman,Student,4/25/2016,13:33:31,10,Learning,,,Self,0
+Tuynman,Student,4/25/2016,13:33:36,10,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:34:51,10,Learning,,,,0
+Tuynman,Student,4/25/2016,13:35:09,10,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:35:32,11,Learning,,,,0
+Tuynman,Student,4/25/2016,13:37:34,12,Learning,,,,0
+Tuynman,Student,4/25/2016,13:39:35,13,Learning,,,,0
+Tuynman,Student,4/25/2016,13:41:14,13,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:41:26,13,Learning,,,,0
+Tuynman,Student,4/25/2016,13:41:37,14,Learning,,,,0
+Tuynman,Student,4/25/2016,13:43:32,14,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:43:38,15,Learning,,,,0
+Tuynman,Student,4/25/2016,13:44:17,15,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:44:49,15,Learning,,,,0
+Tuynman,Student,4/25/2016,13:45:05,15,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:45:19,15,Learning,,,,0
+Tuynman,Student,4/25/2016,13:45:39,16,Learning,,,,0
+Tuynman,Student,4/25/2016,13:46:23,16,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:47:14,16,Learning,,,,0
+Tuynman,Student,4/25/2016,13:47:40,17,Learning,,,,0
+Tuynman,Student,4/25/2016,13:47:54,17,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,13:48:33,17,Learning,,,,0
+Tuynman,Student,4/25/2016,13:49:42,18,Learning,,,,0
+Tuynman,Student,4/25/2016,13:51:43,19,Learning,,,,0
+Tuynman,Student,4/25/2016,13:53:52,20,Learning,,,,0
+Tuynman,Student,4/25/2016,13:55:55,21,Learning,,,,0
+Tuynman,Student,4/25/2016,13:57:56,22,Learning,,,,0
+Tuynman,Student,4/25/2016,13:59:57,23,Learning,,,,0
+Tuynman,Student,4/25/2016,14:01:58,24,Learning,,,,0
+Tuynman,Student,4/25/2016,14:03:59,25,Learning,,,,0
+Tuynman,Student,4/25/2016,14:06:02,26,Learning,,,,0
+Tuynman,Student,4/25/2016,14:08:03,27,Learning,,,,0
+Tuynman,Student,4/25/2016,14:10:05,28,Learning,,,,0
+Tuynman,Student,4/25/2016,14:12:07,29,Learning,,,,0
+Tuynman,Student,4/25/2016,14:14:09,30,Learning,,,,0
+Tuynman,Student,4/25/2016,14:16:13,31,Learning,,,,0
+Tuynman,Student,4/25/2016,14:18:15,32,Learning,,,,0
+Tuynman,Student,4/25/2016,14:20:16,33,Learning,,,,0
+Tuynman,Student,4/25/2016,14:21:37,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,14:21:49,33,Learning,,,,0
+Tuynman,Student,4/25/2016,14:22:18,34,Learning,,,,0
+Tuynman,Student,4/25/2016,14:24:19,35,Learning,,,,0
+Tuynman,Student,4/25/2016,14:25:56,35,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,14:26:08,35,Learning,,,,0
+Tuynman,Student,4/25/2016,14:26:20,36,Learning,,,,0
+Tuynman,Student,4/25/2016,14:26:40,36,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/25/2016,14:26:56,36,Learning,,,,0
+Tuynman,Student,4/25/2016,14:28:22,37,Learning,,,,0
+Tuynman,Student,4/25/2016,14:30:23,38,Learning,,,,0
+Tuynman,Student,4/25/2016,14:32:24,39,Learning,,,,0
+Tuynman,Student,4/25/2016,14:34:25,40,Learning,,,,0
+Tuynman,Student,4/25/2016,14:36:26,41,Learning,,,,0
+Tuynman,Student,4/25/2016,14:38:27,42,Learning,,,,0
+Tuynman,Session,4/25/2016,14:40:27,Student,End,0,0,,
+Tuynman,Session,4/26/2016,8:33:24,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/26/2016,8:33:25,Teaching,On,0,,,
+Tuynman,Teacher,4/26/2016,8:38:17,Teaching,Off,0,,,
+Tuynman,Teacher,4/26/2016,8:40:18,Teaching,On,0,,,
+Tuynman,Session,4/26/2016,8:49:39,Teacher,End,,0,,
+Tuynman,Session,4/26/2016,8:49:42,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/26/2016,8:49:43,Teaching,On,0,,,
+Tuynman,Session,4/26/2016,10:00:02,Teacher,End,,0,,
+Tuynman,Session,4/26/2016,11:05:29,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/26/2016,11:05:30,Teaching,On,0,,,
+Tuynman,Teacher,4/26/2016,12:08:22,Teaching,Off,0,,,
+Tuynman,Teacher,4/26/2016,12:08:48,Teaching,On,0,,,
+Tuynman,Session,4/26/2016,12:30:03,Teacher,End,,0,,
+Tuynman,Session,4/26/2016,13:16:54,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/26/2016,13:16:56,Teaching,On,0,,,
+Tuynman,Teacher,4/26/2016,13:16:58,Teaching,Off,0,,,
+Tuynman,Teacher,4/26/2016,13:17:31,Teaching,On,0,,,
+Tuynman,Teacher,4/26/2016,13:20:18,Teaching,Off,0,,,
+Tuynman,Teacher,4/26/2016,13:22:38,Teaching,On,0,,,
+Tuynman,Session,4/26/2016,13:58:20,Teacher,End,,0,,
+Tuynman,Session,4/26/2016,13:58:24,Teacher,Begin,Science,0,,
+Tuynman,Teacher,4/26/2016,13:58:25,Teaching,On,0,,,
+Tuynman,Session,4/26/2016,14:40:02,Teacher,End,,0,,
+Tuynman,Session,4/27/2016,9:00:24,Student,Begin,2,0,,
+Tuynman,Student,4/27/2016,9:00:25,1,Learning,,,null,0
+Tuynman,Student,4/27/2016,9:02:34,2,Learning,,,null,0
+Tuynman,Student,4/27/2016,9:04:35,3,Learning,,,null,0
+Tuynman,Student,4/27/2016,9:06:36,4,Learning,,,null,0
+Tuynman,Student,4/27/2016,9:08:37,5,Learning,,,null,0
+Tuynman,Student,4/27/2016,9:10:11,5,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,9:10:17,5,Learning,,,,0
+Tuynman,Student,4/27/2016,9:10:38,6,Learning,,,,0
+Tuynman,Student,4/27/2016,9:12:39,7,Learning,,,,0
+Tuynman,Student,4/27/2016,9:14:41,8,Learning,,,,0
+Tuynman,Student,4/27/2016,9:15:08,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,9:15:13,8,Learning,,,,0
+Tuynman,Student,4/27/2016,9:16:12,8,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,9:16:30,8,Learning,,,,0
+Tuynman,Student,4/27/2016,9:16:48,9,Learning,,,,0
+Tuynman,Student,4/27/2016,9:18:49,10,Learning,,,,0
+Tuynman,Student,4/27/2016,9:20:50,11,Learning,,,,0
+Tuynman,Student,4/27/2016,9:22:53,12,Learning,,,,0
+Tuynman,Student,4/27/2016,9:24:54,13,Learning,,,,0
+Tuynman,Student,4/27/2016,9:26:39,13,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,9:26:44,13,Learning,,,,0
+Tuynman,Student,4/27/2016,9:26:55,14,Learning,,,,0
+Tuynman,Student,4/27/2016,9:28:56,15,Learning,,,,0
+Tuynman,Student,4/27/2016,9:30:57,16,Learning,,,,0
+Tuynman,Student,4/27/2016,9:32:59,17,Learning,,,,0
+Tuynman,Student,4/27/2016,9:35:00,18,Learning,,,,0
+Tuynman,Student,4/27/2016,9:37:01,19,Learning,,,,0
+Tuynman,Student,4/27/2016,9:38:37,19,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,9:38:49,19,Learning,,,,0
+Tuynman,Student,4/27/2016,9:39:03,20,Learning,,,,0
+Tuynman,Student,4/27/2016,9:41:05,21,Learning,,,,0
+Tuynman,Student,4/27/2016,9:43:08,22,Learning,,,,0
+Tuynman,Student,4/27/2016,9:45:09,23,Learning,,,,0
+Tuynman,Student,4/27/2016,9:47:11,24,Learning,,,,0
+Tuynman,Student,4/27/2016,9:47:30,24,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,9:48:32,24,Learning,,,,0
+Tuynman,Student,4/27/2016,9:49:12,25,Learning,,,,0
+Tuynman,Student,4/27/2016,9:49:31,25,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,9:49:54,25,Learning,,,,0
+Tuynman,Student,4/27/2016,9:51:14,26,Learning,,,,0
+Tuynman,Student,4/27/2016,9:52:46,26,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,9:53:03,26,Learning,,,,0
+Tuynman,Student,4/27/2016,9:53:15,27,Learning,,,,0
+Tuynman,Student,4/27/2016,9:54:44,27,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,9:54:56,27,Learning,,,,0
+Tuynman,Student,4/27/2016,9:55:16,28,Learning,,,,0
+Tuynman,Student,4/27/2016,9:57:17,29,Learning,,,,0
+Tuynman,Student,4/27/2016,9:59:18,30,Learning,,,,0
+Tuynman,Student,4/27/2016,10:01:19,31,Learning,,,,0
+Tuynman,Student,4/27/2016,10:03:26,32,Learning,,,,0
+Tuynman,Student,4/27/2016,10:05:28,33,Learning,,,,0
+Tuynman,Student,4/27/2016,10:07:29,34,Learning,,,,0
+Tuynman,Student,4/27/2016,10:08:46,34,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,10:08:54,34,Learning,,,,0
+Tuynman,Student,4/27/2016,10:09:30,35,Learning,,,,0
+Tuynman,Student,4/27/2016,10:11:15,35,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,10:11:27,35,Learning,,,,0
+Tuynman,Student,4/27/2016,10:11:32,36,Learning,,,,0
+Tuynman,Student,4/27/2016,10:13:33,37,Learning,,,,0
+Tuynman,Student,4/27/2016,10:13:58,37,Distracted,Internal,Classroom Activity,,0
+Tuynman,Student,4/27/2016,10:14:34,37,Learning,,,,0
+Tuynman,Student,4/27/2016,10:14:45,37,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/27/2016,10:15:11,37,Learning,,,Self,0
+Tuynman,Student,4/27/2016,10:15:34,38,Learning,,,Self,0
+Tuynman,Student,4/27/2016,10:17:36,39,Learning,,,Self,0
+Tuynman,Student,4/27/2016,10:19:00,39,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,10:19:05,39,Learning,,,,0
+Tuynman,Student,4/27/2016,10:19:37,40,Learning,,,,0
+Tuynman,Student,4/27/2016,10:21:41,41,Learning,,,,0
+Tuynman,Student,4/27/2016,10:23:42,42,Learning,,,,0
+Tuynman,Student,4/27/2016,10:25:43,43,Learning,,,,0
+Tuynman,Student,4/27/2016,10:27:44,44,Learning,,,,0
+Tuynman,Student,4/27/2016,10:29:45,45,Learning,,,,0
+Tuynman,Session,4/27/2016,10:30:47,Student,End,0,0,,
+Tuynman,Session,4/27/2016,11:00:10,Student,Begin,2,0,,
+Tuynman,Student,4/27/2016,11:00:12,1,Learning,,,,0
+Tuynman,Student,4/27/2016,11:02:14,2,Learning,,,,0
+Tuynman,Student,4/27/2016,11:04:15,3,Learning,,,,0
+Tuynman,Student,4/27/2016,11:06:16,4,Learning,,,,0
+Tuynman,Student,4/27/2016,11:08:18,5,Learning,,,,0
+Tuynman,Student,4/27/2016,11:10:27,6,Learning,,,,0
+Tuynman,Student,4/27/2016,11:12:11,6,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,11:12:19,6,Learning,,,,0
+Tuynman,Student,4/27/2016,11:12:29,7,Learning,,,,0
+Tuynman,Student,4/27/2016,11:14:30,8,Learning,,,,0
+Tuynman,Student,4/27/2016,11:16:31,9,Learning,,,,0
+Tuynman,Student,4/27/2016,11:18:32,10,Learning,,,,0
+Tuynman,Student,4/27/2016,11:19:35,10,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,11:19:41,10,Learning,,,,0
+Tuynman,Student,4/27/2016,11:20:33,11,Learning,,,,0
+Tuynman,Student,4/27/2016,11:22:34,12,Learning,,,,0
+Tuynman,Student,4/27/2016,11:24:35,13,Learning,,,,0
+Tuynman,Student,4/27/2016,11:26:36,14,Learning,,,,0
+Tuynman,Student,4/27/2016,11:28:37,15,Learning,,,,0
+Tuynman,Student,4/27/2016,11:28:43,15,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,11:28:49,15,Learning,,,,0
+Tuynman,Student,4/27/2016,11:30:38,16,Learning,,,,0
+Tuynman,Student,4/27/2016,11:32:39,17,Learning,,,,0
+Tuynman,Student,4/27/2016,11:34:40,18,Learning,,,,0
+Tuynman,Student,4/27/2016,11:36:29,18,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,11:36:33,18,Learning,,,,0
+Tuynman,Student,4/27/2016,11:36:41,19,Learning,,,,0
+Tuynman,Student,4/27/2016,11:37:24,19,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/27/2016,11:37:34,19,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:37:59,19,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/27/2016,11:38:10,19,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:38:23,19,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,11:38:27,19,Learning,,,,0
+Tuynman,Student,4/27/2016,11:38:30,19,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,11:38:38,19,Learning,,,,0
+Tuynman,Student,4/27/2016,11:38:42,20,Learning,,,,0
+Tuynman,Student,4/27/2016,11:40:43,21,Learning,,,,0
+Tuynman,Student,4/27/2016,11:42:45,22,Learning,,,,0
+Tuynman,Student,4/27/2016,11:42:50,22,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,11:43:51,22,Learning,,,,0
+Tuynman,Student,4/27/2016,11:44:47,23,Learning,,,,0
+Tuynman,Student,4/27/2016,11:44:53,23,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/27/2016,11:46:48,24,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:48:50,25,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:50:40,25,Distracted,Internal,Other,Self,0
+Tuynman,Student,4/27/2016,11:50:51,26,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:52:52,27,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:54:53,28,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:56:54,29,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:58:55,30,Learning,,,Self,0
+Tuynman,Student,4/27/2016,11:59:33,30,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:00:43,30,Learning,,,,0
+Tuynman,Student,4/27/2016,12:01:06,31,Learning,,,,0
+Tuynman,Student,4/27/2016,12:02:06,31,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:02:20,31,Learning,,,,0
+Tuynman,Student,4/27/2016,12:03:07,32,Learning,,,,0
+Tuynman,Student,4/27/2016,12:03:22,32,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:03:34,32,Learning,,,,0
+Tuynman,Student,4/27/2016,12:03:55,32,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:04:04,32,Learning,,,,0
+Tuynman,Student,4/27/2016,12:05:09,33,Learning,,,,0
+Tuynman,Student,4/27/2016,12:05:14,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:06:22,33,Learning,,,,0
+Tuynman,Student,4/27/2016,12:06:28,33,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:06:58,33,Learning,,,,0
+Tuynman,Student,4/27/2016,12:07:10,34,Learning,,,,0
+Tuynman,Student,4/27/2016,12:09:11,35,Learning,,,,0
+Tuynman,Student,4/27/2016,12:11:12,36,Learning,,,,0
+Tuynman,Student,4/27/2016,12:13:14,37,Learning,,,,0
+Tuynman,Student,4/27/2016,12:15:15,38,Learning,,,,0
+Tuynman,Student,4/27/2016,12:17:08,38,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:17:14,38,Learning,,,,0
+Tuynman,Student,4/27/2016,12:17:16,39,Learning,,,,0
+Tuynman,Student,4/27/2016,12:18:48,39,Distracted,Internal,Visitor,,0
+Tuynman,Student,4/27/2016,12:18:52,39,Learning,,,,0
+Tuynman,Student,4/27/2016,12:19:17,40,Learning,,,,0
+Tuynman,Student,4/27/2016,12:21:18,41,Learning,,,,0
+Tuynman,Student,4/27/2016,12:23:19,42,Learning,,,,0
+Tuynman,Student,4/27/2016,12:25:21,43,Learning,,,,0
+Tuynman,Session,4/27/2016,12:25:22,Student,End,0,0,,
+Tuynman,Session,4/27/2016,12:44:40,Student,Begin,2,0,,
+Tuynman,Student,4/27/2016,12:44:48,1,Learning,,,,0
+Tuynman,Student,4/27/2016,12:46:49,2,Learning,,,,0
+Tuynman,Student,4/27/2016,12:48:50,3,Learning,,,,0
+Tuynman,Student,4/27/2016,12:50:52,4,Learning,,,,0
+Tuynman,Student,4/27/2016,12:52:54,5,Learning,,,,0
+Tuynman,Student,4/27/2016,12:54:55,6,Learning,,,,0
+Tuynman,Student,4/27/2016,12:56:03,6,Distracted,Internal,Other Students,,0
+Tuynman,Student,4/27/2016,12:56:11,6,Learning,,,,0
+Tuynman,Student,4/27/2016,12:56:56,7,Learning,,,,0
+Tuynman,Student,4/27/2016,12:58:57,8,Learning,,,,0
+Tuynman,Student,4/27/2016,13:00:59,9,Learning,,,,0
+Tuynman,Student,4/27/2016,13:03:02,10,Learning,,,,0
+Tuynman,Student,4/27/2016,13:05:05,11,Learning,,,,0
+Tuynman,Student,4/27/2016,13:07:07,12,Learning,,,,0
+Tuynman,Student,4/27/2016,13:09:08,13,Learning,,,,0
+Tuynman,Student,4/27/2016,13:11:10,14,Learning,,,,0
+Tuynman,Student,4/27/2016,13:13:11,15,Learning,,,,0
+Tuynman,Student,4/27/2016,13:15:13,16,Learning,,,,0
+Tuynman,Student,4/27/2016,13:17:21,17,Learning,,,,0
+Tuynman,Student,4/27/2016,13:19:23,18,Learning,,,,0
+Tuynman,Student,4/27/2016,13:21:25,19,Learning,,,,0
+Tuynman,Student,4/27/2016,13:23:26,20,Learning,,,,0
+Tuynman,Student,4/27/2016,13:25:28,21,Learning,,,,0
+Tuynman,Student,4/27/2016,13:27:29,22,Learning,,,,0
+Tuynman,Student,4/27/2016,13:29:31,23,Learning,,,,0
+Tuynman,Student,4/27/2016,13:31:33,24,Learning,,,,0
+Tuynman,Student,4/27/2016,13:33:37,25,Learning,,,,0
+Tuynman,Student,4/27/2016,13:35:38,26,Learning,,,,0
+Tuynman,Student,4/27/2016,13:37:41,27,Learning,,,,0
+Tuynman,Student,4/27/2016,13:39:42,28,Learning,,,,0
+Tuynman,Student,4/27/2016,13:41:43,29,Learning,,,,0
+Tuynman,Student,4/27/2016,13:43:44,30,Learning,,,,0
+Tuynman,Student,4/27/2016,13:45:45,31,Learning,,,,0
+Tuynman,Student,4/27/2016,13:47:50,32,Learning,,,,0
+Tuynman,Student,4/27/2016,13:49:51,33,Learning,,,,0
+Tuynman,Student,4/27/2016,13:51:53,34,Learning,,,,0
+Tuynman,Student,4/27/2016,13:53:54,35,Learning,,,,0
+Tuynman,Student,4/27/2016,13:55:56,36,Learning,,,,0
+Tuynman,Session,4/27/2016,13:56:46,Student,End,0,0,,
+Tuynman,Session,4/28/2016,8:35:03,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/28/2016,8:35:05,Teaching,On,0,,,
+Tuynman,Teacher,4/28/2016,8:43:03,Teaching,Off,0,,,
+Tuynman,Teacher,4/28/2016,8:43:17,Teaching,On,0,,,
+Tuynman,Teacher,4/28/2016,8:45:48,Teaching,Off,0,,,
+Tuynman,Teacher,4/28/2016,8:46:02,Teaching,On,0,,,
+Tuynman,Teacher,4/28/2016,8:53:15,Teaching,Off,0,,,
+Tuynman,Session,4/28/2016,8:53:16,Teacher,End,,0,,
+Tuynman,Session,4/28/2016,8:58:04,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/28/2016,8:58:05,Teaching,On,0,,,
+Tuynman,Teacher,4/28/2016,9:38:00,Teaching,Off,0,,,
+Tuynman,Teacher,4/28/2016,9:38:05,Teaching,On,0,,,
+Tuynman,Session,4/28/2016,10:00:29,Teacher,End,,0,,
+Tuynman,Session,4/28/2016,11:27:48,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/28/2016,11:27:49,Teaching,On,0,,,
+Tuynman,Session,4/28/2016,11:29:13,Teacher,End,,0,,
+Tuynman,Session,4/28/2016,11:29:16,Teacher,Begin,Math,0,,
+Tuynman,Teacher,4/28/2016,11:29:17,Teaching,On,0,,,
+Tuynman,Session,4/28/2016,12:00:16,Teacher,End,,0,,
+Tuynman,Session,4/28/2016,12:40:56,Teacher,Begin,English,0,,
+Tuynman,Teacher,4/28/2016,12:40:58,Teaching,On,0,,,
+Tuynman,Teacher,4/28/2016,12:43:00,Teaching,Off,0,,,
+Tuynman,Teacher,4/28/2016,12:43:08,Teaching,On,0,,,
+Tuynman,Teacher,4/28/2016,13:08:42,Teaching,Off,0,,,
+Tuynman,Teacher,4/28/2016,13:08:56,Teaching,On,0,,,
+Tuynman,Session,4/28/2016,13:39:53,Teacher,End,,0,,
+Tuynman,Session,4/28/2016,13:39:56,Teacher,Begin,Other,0,,
+Tuynman,Teacher,4/28/2016,13:39:58,Teaching,On,0,,,
+Tuynman,Session,4/28/2016,14:00:04,Teacher,End,,0,,
+Tuynman,Session,4/29/2016,9:00:13,Noise,Begin,,0,,
+Tuynman,Noise,4/29/2016,9:00:16,16,Traffic,Auto,,0,
+Tuynman,Noise,4/29/2016,9:01:20,10,Aircraft,Helo Arrival,There is a continuous traffic noise.,0,
+Tuynman,Noise,4/29/2016,9:02:45,7,Traffic,Auto,,0,
+Tuynman,Noise,4/29/2016,9:03:06,4,Traffic,Auto,,0,
+Tuynman,Noise,4/29/2016,9:03:37,12,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:04:08,18,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:05:00,25,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:05:28,9,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:06:19,6,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:07:40,13,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/29/2016,9:09:31,14,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/29/2016,9:10:33,20,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:11:33,15,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,9:11:52,31,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:13:18,8,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/29/2016,9:14:06,5,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:17:12,9,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:17:31,23,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/29/2016,9:19:09,7,Traffic,Other,,0,
+Tuynman,Noise,4/29/2016,9:20:34,20,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:21:36,17,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:22:24,7,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:22:52,24,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:24:01,8,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,9:25:37,20,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:27:01,7,Traffic,Auto,,0,
+Tuynman,Noise,4/29/2016,9:28:01,20,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:29:20,34,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:33:29,17,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:34:09,9,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:35:23,15,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:35:51,24,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:36:40,52,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:38:29,33,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:39:07,4,Traffic,Other,,0,
+Tuynman,Noise,4/29/2016,9:40:33,15,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:44:20,13,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:45:30,38,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:46:46,18,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:47:28,12,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,9:48:23,12,Aircraft,Jet Arrival,,0,
+Tuynman,Noise,4/29/2016,9:51:40,15,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:58:18,30,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,9:59:05,30,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:00:50,17,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:02:04,18,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:06:05,42,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:07:30,25,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:12:38,15,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:13:22,28,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,10:15:02,15,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:15:52,9,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,10:19:06,10,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,10:20:44,18,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:21:54,8,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,10:23:07,17,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:23:53,27,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,10:25:46,20,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,10:27:01,10,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,10:28:02,9,Other,Other,Train,0,
+Tuynman,Session,4/29/2016,10:30:11,Noise,End,,0,,
+Tuynman,Session,4/29/2016,11:00:13,Noise,Begin,,0,,
+Tuynman,Noise,4/29/2016,11:00:17,15,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:02:07,32,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:03:53,18,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,11:04:15,47,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:06:02,20,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:06:37,23,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:07:26,22,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:08:15,33,Aircraft,Helo Departure,A police helicopter has been looking for something around the school area.,0,
+Tuynman,Noise,4/29/2016,11:10:27,20,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:15:08,6,Other,Other,,0,
+Tuynman,Noise,4/29/2016,11:15:17,19,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:16:02,23,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:16:52,8,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:17:04,6,Traffic,Other,,0,
+Tuynman,Noise,4/29/2016,11:17:20,9,Traffic,Other,Motorcycle,0,
+Tuynman,Noise,4/29/2016,11:17:40,27,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:19:11,7,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:19:56,25,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:24:07,16,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:24:25,26,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:25:13,30,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:26:42,24,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,11:28:48,29,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:32:20,25,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:35:53,27,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:37:00,15,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,11:45:35,11,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,11:47:26,22,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,11:47:57,9,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,11:51:26,11,Traffic,Other,Motorcycle,0,
+Tuynman,Noise,4/29/2016,12:01:13,25,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,12:03:28,20,Traffic,Other,Motorcycle,0,
+Tuynman,Noise,4/29/2016,12:03:53,22,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,12:04:31,22,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,12:21:13,36,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,12:29:25,10,Aircraft,Prop Departure,,0,
+Tuynman,Session,4/29/2016,12:30:03,Noise,End,,0,,
+Tuynman,Session,4/29/2016,13:00:00,Noise,Begin,,0,,
+Tuynman,Noise,4/29/2016,13:00:19,20,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,13:01:02,32,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:02:55,13,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,13:04:19,5,Traffic,Other,Motorcycle,0,
+Tuynman,Noise,4/29/2016,13:04:36,25,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:05:15,33,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:05:51,12,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,13:07:11,22,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,13:19:24,10,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,13:20:08,12,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,13:20:43,34,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:23:54,8,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:24:26,28,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:25:12,56,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,13:27:35,26,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:28:13,27,Aircraft,Helo Departure,,0,
+Tuynman,Noise,4/29/2016,13:37:02,4,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,13:40:27,24,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,13:48:03,28,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,13:54:30,72,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,13:56:35,5,Traffic,Other,Motorcycle,0,
+Tuynman,Noise,4/29/2016,13:56:46,9,Traffic,Other,Motorcycle,0,
+Tuynman,Noise,4/29/2016,13:58:17,5,Traffic,Truck,,0,
+Tuynman,Noise,4/29/2016,13:59:27,21,Traffic,Other,Ambulance,0,
+Tuynman,Noise,4/29/2016,14:00:18,38,Aircraft,Helo Arrival,,0,
+Tuynman,Noise,4/29/2016,14:03:50,40,Aircraft,Prop Departure,,0,
+Tuynman,Noise,4/29/2016,14:11:32,39,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,14:15:39,27,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,14:17:46,20,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,14:21:04,30,Aircraft,Prop Arrival,,0,
+Tuynman,Noise,4/29/2016,14:21:55,6,Traffic,Other,Motorcycle,0,
+Tuynman,Session,4/29/2016,14:30:01,Noise,End,,0,,
